@@ -1,0 +1,81 @@
+{# XXX: This is sorta working, but not really. #}
+
+<!--
+    DEFAULT_PAGINATION: {{ DEFAULT_PAGINATION }}
+    articles_page.number: {{ articles_page.number }}
+    articles_page.previous_page_number(): {{ articles_page.previous_page_number() }}
+    articles_page.next_page_number(): {{ articles_page.next_page_number() }}
+    articles_page.has_previous(): {{ articles_page.has_previous() }}
+    articles_page.has_next(): {{ articles_page.has_next() }}
+    articles_page.paginator.num_pages: {{ articles_page.paginator.num_pages }}
+    articles_page.start_index(): {{ articles_page.start_index() }}
+    articles_page.end_index(): {{ articles_page.end_index() }}
+-->
+
+{% if DEFAULT_PAGINATION and (articles_page.has_previous() or articles_page.has_next()) %}
+
+{% set page = articles_page.number %}
+{% set page_start = 1 %}
+{% set page_end = articles_page.paginator.num_pages %}
+
+{# should be odd #}
+{% set middle_pages_len = 3 %}
+
+{#
+ # jinja2 no support list comprehensions! This is ugly but might work.
+ # Needs testing. (With a lot more index pages.)
+ #}
+
+{% set middle_pages = [] %}
+{% for x in range(page - (middle_pages_len / 2)|int, page + (middle_pages_len / 2)|int + 1) %}
+  {% if x > 0 and x <= page_end %}
+    {% do middle_pages.append(x) %}
+  {% endif %}
+{% endfor %}
+
+<!-- middle_pages: {{ middle_pages }} -->
+
+
+<!--  this looks okay
+<nav>
+  <ul class="pagination">
+    <li><a href="#">1</a></li>
+    <li class="active"><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+  </ul>
+</nav>
+-->
+
+<nav>
+  <ul class="pagination">
+
+  {% if not page_start in middle_pages %}
+    <li><a href="#">{{ page_start }}</a></li>
+  {% endif %}
+
+  {% if not middle_pages[0] in [page_start, page_start + 1] %}
+    <li><a href="#">...</a></li>
+  {% endif %}
+
+  {% for p in middle_pages %}
+    {% if p == page %}
+      <li class="active"><a href="#">{{ page }}</a></li>
+    {% else %}
+      <li><a href="#">{{ p }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% if not middle_pages[-1] in [page_end, page_end - 1] %}
+    <li><a href="#">...</a></li>
+  {% endif %}
+
+  {% if not page_end in middle_pages %}
+    <li><a href="#">{{ page_end }}</a></li>
+  {% endif %}
+
+  </ul>
+</nav>
+
+{% endif %}

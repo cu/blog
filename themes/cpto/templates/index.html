@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}
+
+{% if articles %}
+{% for article in articles_page.object_list %}
+
+<div class="blog-post">
+  <h2 class="blog-post-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+  {% include "metadata.html" %}
+
+  {{ article.summary }}
+
+  <a href="{{ SITEURL }}/{{ article.url }}">Read more...</a>
+
+</div><!-- /.blog-post -->
+
+
+{% endfor %} {# articles_page.object_list #}
+
+{% include "pagination.html" %}
+
+{% endif %} {# articles #}
+
+{% endblock content %}

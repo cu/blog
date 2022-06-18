@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Archives by Year</h1>
+
+<ul>
+{% set year_list = [] %}
+{% for article in dates %}
+  {% set year = article.date|strftime('%Y') %}
+  {% if year not in year_list %}
+    <li><a href="{{ SITEURL }}/articles/{{ year }}/">{{ year }}</a></li>
+  {% set year_list = year_list.append(year) %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+{% endblock %}
