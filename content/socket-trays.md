@@ -1,6 +1,6 @@
 Title: Stackable Ratchet and Socket Trays
 Date: 2018-01-21
-Category: Shop
+Tags: Shop, DIY
 
 <a href="https://img.bityard.net/blog/socket-trays/final.jpg">
   <img src="https://img.bityard.net/blog/socket-trays/final-640.jpg">

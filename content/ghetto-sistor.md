@@ -1,6 +1,6 @@
 Title: Ghetto-sistor
 Date: 2008-10-24 02:12
-Category: Electronics
+Tags: Electronics
 
 This, my friends, is what is called a "ghetto-sistor."
 

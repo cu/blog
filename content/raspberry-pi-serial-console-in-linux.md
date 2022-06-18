@@ -1,6 +1,6 @@
 Title: Raspberry Pi Serial Console in Linux
 Date: 2012-06-23 18:05
-Category: Linux
+Tags: Linux, Raspberry Pi
 
 ![](https://img.bityard.net/blog/rpi_serial_main.JPG)
 

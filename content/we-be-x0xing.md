@@ -1,6 +1,6 @@
 Title: We Be X0xing
 Date: 2008-11-15 18:46
-Category: Electronics
+Tags: Electronics, Music
 
 It occurred to me today that I hadn't put up many pictures yet of my [x0xb0x](http://www.ladyada.net/make/x0xb0x/) whilst under construction. It further occurred to me I had not taken many pictures of my x0xb0x whilst under construction either. Besides the one a few posts down, this is it:
 

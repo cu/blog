@@ -8,10 +8,15 @@ TIMEZONE = 'America/Detroit'
 DEFAULT_DATE = 'fs'
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
+TAG_FEED_RSS = 'feeds/{slug}.rss.xml'
+TAG_FEED_ATOM = 'feeds/{slug}.atom.xml'
+AUTHOR_FEED_RSS = None
+AUTHOR_FEED_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
 
-#DIRECT_TEMPLATES = ('index', 'archives')
+DIRECT_TEMPLATES = ['index', 'tags', 'archives']
 TEMPLATE_EXTENSIONS = ['.html', '.html.j2']
 
 #JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.do']}

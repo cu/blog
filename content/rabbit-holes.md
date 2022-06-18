@@ -1,6 +1,6 @@
 Title: Rabbit Holes: The Secret to Technical Expertise
 Date: 2019-08-24
-Category: Linux
+Tags: Linux
 
 <figure>
   <img class="blog-image" src="https://img.bityard.net/blog/rabbit-holes/image1.png">

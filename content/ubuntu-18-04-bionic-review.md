@@ -1,6 +1,6 @@
 Title: In Beaver We Trust: A Lengthy, Pedantic Review of Ubuntu 18.04 LTS
 Date: 2018-04-26
-Category: Linux
+Tags: Linux
 
 <figure>
   <a href="https://img.bityard.net/blog/bionic-review/beav.jpg">

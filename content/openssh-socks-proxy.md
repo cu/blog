@@ -1,6 +1,6 @@
 Title: OpenSSH: The Poor Man's SOCKS Proxy
 Date: 2009-01-21 01:17
-Category: Linux
+Tags: Linux, Networking
 
 Just when I think I know everything I need to know about [OpenSSH](http://openssh.org/), I end up learning something new and tremendously useful. Today, that would be the -D argument.
 

@@ -1,6 +1,6 @@
 Title: My BITX40 Build
 Date: 2017-06-09
-Category: Radio
+Tags: Radio
 
 <a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-01.jpg">
   <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-01-640.jpg">

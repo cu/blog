@@ -1,6 +1,6 @@
 Title: Rebuilding Docker for Custom Networks, a SysAdmin Tale
 Date: 2018-05-04
-Category: Linux
+Tags: Linux, Docker, DevOps
 
 At work, we use [Docker](https://www.docker.com/) for developing, testing, and deploying applications. For the most part, it has simplified our lives greatly at the cost of a few annoyances and headaches here and there. I just spent the better part of a week dealing with one of them and since misery loves company, I'm going to share the pain with you. Aren't you excited?
 

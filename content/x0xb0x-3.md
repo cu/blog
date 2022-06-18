@@ -1,6 +1,6 @@
 Title: x0xb0x #3
 Date: 2009-08-12 01:57
-Category: Electronics
+Tags: Electronics, Music
 
 Just finished up x0xb0x #3. All of the basic functionality seems to work and it sounds just like a 303. Well, better than a 303 in my book but I guess I'm probably biased.
 

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} - Topics{% endblock %}
+
+{% block content %}
+<section id="content" class="body">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Topic</th>
+          <th>Articles</th>
+          <th>Feeds</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for tag, articles in tags|sort %}
+        <tr>
+          <td><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></td>
+          <td>{{ articles|count }}</td>
+          <td>
+            <a href="{{ SITEURL }}/feeds/{{ tag }}.atom.xml">Atom</a>,
+            <a href="{{ SITEURL }}/feeds/{{ tag }}.rss.xml">RSS</a>
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+</section>
+{% endblock %}

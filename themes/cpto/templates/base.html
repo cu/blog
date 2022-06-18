@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
     {#
     <meta name="description" content="">
     <meta name="author" content="{{ AUTHOR }}">
@@ -20,18 +20,8 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    {% if FEED_ALL_ATOM %}
-        <link href="{{ FEED_ALL_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-    {% endif %}
-    {% if FEED_ATOM %}
-        <link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-    {% endif %}
-    {% if FEED_RSS %}
-        <link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
-    {% endif %}
-    {% if FEED_ALL_RSS %}
-        <link href="{{ FEED_ALL_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
-    {% endif %}
+    <link href="{{ FEED_ALL_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+    <link href="{{ FEED_ALL_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
   </head>
   <body>
 
@@ -112,12 +102,11 @@
           </div>
 
           <div class="sidebar-module">
-            <h4>Categories</h4>
-            <ol class="list-unstyled">
-            {% for cat, null in categories %}
-              <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            <h4>Topics</h4>
+            {% for tag, _ in tags|sort %}
+              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>,
             {% endfor %}
-            </ol>
+            <a href="{{ SITEURL }}/tags.html">(All Topics)</a>
           </div>
  
           <div class="sidebar-module">

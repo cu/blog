@@ -1,6 +1,6 @@
 Title: Linux Terminal Speed Benchmarks
 Date: 2008-10-27 02:54
-Category: Linux
+Tags: Linux
 
 In system administration, you spend a lot of time typing into and reading back information from a terminal. Although all terminals pretty much do the same thing, they can differ somewhat in their UI features or which desktop they were designed to be integrated into.
 

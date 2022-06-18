@@ -1,6 +1,6 @@
 Title: x0x #3 almost ready!
 Date: 2009-08-11 01:22
-Category: Electronics
+Tags: Electronics, Music
 
 I'm almost done with x0xb0x #3.
 

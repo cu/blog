@@ -7,5 +7,6 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'https://blog.bityard.net'
+FEED_DOMAIN = SITEURL
 
 DELETE_OUTPUT_DIRECTORY = True

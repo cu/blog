@@ -1,6 +1,6 @@
 Title: Graphite and the Energy Bridge to Nowhere
 Date: 2018-07-06
-Category: Linux
+Tags: Linux, Home Automation, Docker
 
 <img class="blog-image" src="https://img.bityard.net/blog/energy-bridge/energy_bridge.png">
 

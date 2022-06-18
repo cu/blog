@@ -1,6 +1,6 @@
 Title: I Built a Bandsaw!
 Date: 2019-01-11
-Category: Shop
+Tags: Shop, DIY
 
 <a href="https://img.bityard.net/blog/bandsaw/bandsaw_front.jpg">
   <img class="blog-image" src="https://img.bityard.net/blog/bandsaw/bandsaw_front_640.jpg">

@@ -1,6 +1,6 @@
 Title: Linux Neckbeard Shocked, A Newfangled Code Editor that Doesn't Suck
 Date: 2017-10-29
-Category: Linux
+Tags: Linux
 
 <a href="https://img.bityard.net/blog/vscode/vscode-01.png">
   <img src="https://img.bityard.net/blog/vscode/vscode-01-640.png">
