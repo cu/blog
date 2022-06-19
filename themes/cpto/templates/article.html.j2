@@ -1,9 +1,11 @@
 {% extends "base.html.j2" %}
+
 {% block html_lang %}{{ article.lang }}{% endblock %}
+
 {% block head -%}
   {{ super() -}}
   {% if article.summary %}
-        <meta name="description" content="{{ article.summary | striptags | safe | truncate(150) }}" />
+    <meta name="description" content="{{ article.summary | striptags | safe | truncate(150) }}" />
   {% endif %}
 {% endblock %}
 
@@ -23,7 +25,6 @@
       {% include 'taglist.html.j2' %}
       {{ article.content }}
     </div><!-- /.entry-content -->
-
   </article>
 </section>
 {% endblock %}
