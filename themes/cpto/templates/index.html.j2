@@ -6,8 +6,8 @@
 {% for article in articles_page.object_list %}
 
 <div class="blog-post">
-  <h2 class="blog-post-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
-  {% include "metadata.html.j2" %}
+  <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+  {% include "article_meta.html.j2" %}
 
   {{ article.summary }}
 

@@ -6,7 +6,7 @@
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-.entry-title, .blog-post-title, .navbar-brand {
+.entry-title, .navbar-brand {
     font-family: "Open Sans Light", sans-serif;
 }
 
@@ -15,22 +15,23 @@
     border-radius: 0px;
 }
 
-.blog-post-title {
+.entry-title {
     font-weight: 500;
     border-bottom: 1px solid #dddddd;
     padding-bottom: 10px;
 }
 
-.blog-post-title a {
+.entry-title a {
     text-decoration: inherit;
     color: inherit;
 }
 
-.blog-post-title a:hover {
+.entry-title a:hover {
     text-decoration: underline;
 }
 
-.blog-post-meta, .sidebar-module h4 {
+
+.entry-meta, .sidebar-module h4 {
     color: #6f6f6f;
 }
 
