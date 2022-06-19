@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "base.html.j2" %}
 {% block content_title %}{% endblock %}
 {% block content %}
 
@@ -7,7 +7,7 @@
 
 <div class="blog-post">
   <h2 class="blog-post-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
-  {% include "metadata.html" %}
+  {% include "metadata.html.j2" %}
 
   {{ article.summary }}
 
@@ -18,7 +18,7 @@
 
 {% endfor %} {# articles_page.object_list #}
 
-{% include "pagination.html" %}
+{% include "pagination.html.j2" %}
 
 {% endif %} {# articles #}
 

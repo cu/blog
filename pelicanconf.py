@@ -17,7 +17,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 DIRECT_TEMPLATES = ['index', 'tags', 'archives']
-TEMPLATE_EXTENSIONS = ['.html', '.html.j2']
+TEMPLATE_EXTENSIONS = ['.html.j2', '.html']
 
 #JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.do']}
 
