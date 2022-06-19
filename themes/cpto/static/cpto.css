@@ -35,6 +35,10 @@
     color: #6f6f6f;
 }
 
+.sidebar-module-content {
+    margin-left: 0.5em;
+}
+
 @media (min-width: 768px) {
     .blog-sidebar {
         /* I would love to have the sidebar pinned like this, but doing so

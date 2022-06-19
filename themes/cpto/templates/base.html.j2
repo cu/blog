@@ -35,54 +35,64 @@
 
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
           <div class="sidebar-module">
-            <h4>About Me</h4>
-            <p>Charles is a SysAdmin/DevOps type, a fan of open source software,
-            and tinkerer of things on the workbench and in the shop. He is
-            located in the Ann Arbor area and enjoys talking about himself in
-            the third person.
-            </p>
+            <h4>About</h4>
+            <div class="sidebar-module-content">
+              <p>Charles is a SysAdmin/DevOps type, a fan of open source software,
+              and tinkerer of things on the workbench and in the shop. He is
+              located in the Ann Arbor area and enjoys talking about himself in
+              the third person.
+              </p>
+            </div>
           </div>
 
           <div class="sidebar-module">
             <h4>Connect</h4>
+            <div class="sidebar-module-content">
               <a href="https://github.com/cu"><img src="{{ SITEURL }}/theme/github.png" width="24" height="24"></a>
               <a href="https://lobste.rs/u/bityard"><img src="{{ SITEURL }}/theme/lobsters.png" width="24" height="24"></a>
+            </div>
           </div>
 
           <div class="sidebar-module">
             <h4>Topics</h4>
-            {% for tag, _ in tags|sort %}
-              <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>,
-            {% endfor %}
-            <a href="{{ SITEURL }}/tags.html">(All Topics)</a>
+            <div class="sidebar-module-content">
+              {% for tag, _ in tags|sort %}
+                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>,
+              {% endfor %}
+              <a href="{{ SITEURL }}/tags.html">(All Topics)</a>
+            </div>
           </div>
 
           <div class="sidebar-module">
             <h4>Archives</h4>
-            <ol class="list-unstyled">
-            {# On the archives page for a specific year, this only shows the
-             # year for the page. This is because `dates` only contains a list
-             # of articles for that specific year. This is annoying but seems
-             # to be just how Pelican works and I can't see a good way around
-             # it.
-             #}
-            {% set year_list = [] %}
-            {% for article in dates %}
-              {% set year = article.date|strftime('%Y') %}
-              {% if year not in year_list %}
-                <li><a href="{{ SITEURL }}/articles/{{ year }}/">{{ year }}</a></li>
-              {% set year_list = year_list.append(year) %}
-              {% endif %}
-            {% endfor %}
-            </ol>
+            <div class="sidebar-module-content">
+              <ol class="list-unstyled">
+              {# On the archives page for a specific year, this only shows the
+              # year for the page. This is because `dates` only contains a list
+              # of articles for that specific year. This is annoying but seems
+              # to be just how Pelican works and I can't see a good way around
+              # it.
+              #}
+              {% set year_list = [] %}
+              {% for article in dates %}
+                {% set year = article.date|strftime('%Y') %}
+                {% if year not in year_list %}
+                  <li><a href="{{ SITEURL }}/articles/{{ year }}/">{{ year }}</a></li>
+                {% set year_list = year_list.append(year) %}
+                {% endif %}
+              {% endfor %}
+              </ol>
+            </div>
           </div>
 
           <div class="sidebar-module">
             <h4>Subscribe</h4>
-            <ol class="list-unstyled">
-            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a>
-            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS</a>
-            </ol>
+            <div class="sidebar-module-content">
+              <ol class="list-unstyled">
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a>
+                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS</a>
+              </ol>
+            </div>
           </div>
         </div><!-- /.blog-sidebar -->
       </div><!-- /.row -->
