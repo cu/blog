@@ -18,8 +18,8 @@
           <td><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></td>
           <td>{{ articles|count }}</td>
           <td>
-            <a href="{{ SITEURL }}/feeds/{{ tag }}.atom.xml">Atom</a>,
-            <a href="{{ SITEURL }}/feeds/{{ tag }}.rss.xml">RSS</a>
+            <a href="{{ SITEURL }}/feeds/{{ tag.slug }}.atom.xml">Atom</a>,
+            <a href="{{ SITEURL }}/feeds/{{ tag.slug }}.rss.xml">RSS</a>
           </td>
         </tr>
       {% endfor %}
