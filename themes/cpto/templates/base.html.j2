@@ -114,6 +114,12 @@
           <div class="sidebar-module">
             <h4>Archives</h4>
             <ol class="list-unstyled">
+            {# On the archives page for a specific year, this only shows the
+             # year for the page. This is because `dates` only contains a list
+             # of articles for that specific year. This is annoying but seems
+             # to be just how Pelican works and I can't see a good way around
+             # it.
+             #}
             {% set year_list = [] %}
             {% for article in dates %}
               {% set year = article.date|strftime('%Y') %}
