@@ -1,0 +1,10 @@
+{% extends "base.html.j2" %}
+
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{% endblock %}
+
+{% block content %}
+<section id="content" class="body">
+    <h2 class="entry-title">{{ page.title }}</h2>
+    {{ page.content }}
+</section>
+{% endblock %}

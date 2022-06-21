@@ -1,7 +1,5 @@
 {% extends "base.html.j2" %}
 
-{% block html_lang %}{{ article.lang }}{% endblock %}
-
 {% block head -%}
   {{ super() -}}
   {% if article.summary %}
