@@ -1,0 +1,24 @@
+name: deploy to CF pages
+on: [push]
+jobs:
+  deploy:
+    name: generate HTML
+    runs-on: ubuntu-22.04
+    permission:
+      contents: read
+      deployments: write
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: install pelican
+        run: pipx install --verbose 'pelican[markdown]==4.7.2'
+      - name: generate
+        run: make html
+      - name: publish
+        uses: cloudflare/pages-action@1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: blog
+          directory: output
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
