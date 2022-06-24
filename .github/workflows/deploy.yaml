@@ -4,7 +4,7 @@ jobs:
   deploy:
     name: generate HTML
     runs-on: ubuntu-22.04
-    permission:
+    permissions:
       contents: read
       deployments: write
     steps:
