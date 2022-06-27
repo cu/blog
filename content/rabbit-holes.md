@@ -129,7 +129,6 @@ Stellar. Now there are 28 lines of crap! But at least we know `/etc/motd` does _
 <figure>
   <img class="blog-image" src="https://img.bityard.net/blog/rabbit-holes/image2.png">
 </figure>
-<br>
 
 It turns out there's quite a lot! There are some promising leads here, but skimming over the list of possibilities, the last few lines catch my attention the most since those files are in a directory called `/etc/update-motd.d`. These are the files in it:
 

@@ -14,6 +14,10 @@ body {
     background-color: white;
 }
 
+figure {
+    margin-bottom: 1em;
+}
+
 .logo {
     padding: 0;
     margin: 0;
@@ -29,7 +33,7 @@ body {
     text-decoration: none;
 }
 
-.entry-title, .navbar-brand {
+h1, h2, h3, h4, h5, h6, .entry-title, .navbar-brand {
     font-family: "Open Sans Light", sans-serif;
 }
 
