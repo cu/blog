@@ -73,7 +73,7 @@ Previous iterations of this app relied on bootstrap, jQuery, larger web framewor
 
 ![glamorous buttocks cartoon](https://img.bityard.net/blog/silicon/buttocks.png)
 
-I plan on using this app for the rest of my life. But maintaining it is not a hobby. (I have more than enough of those already.) Despite wishing quite intently for it, I am not yet immortal and there is a lot more I want to do before my clock winds down. I want to spend as little time as possible working on this tool going forward, in order to allocate more time to ~~raking in millions~~ my family, friends, and actual hobbies.
+I plan on using this app for the rest of my life. But maintaining it is not a hobby. (I have more than enough of those already.) Despite wishing quite intently for it, I am not yet immortal and there is a lot more I want to do before my clock winds down. I want to spend as little time as possible working on this tool going forward, in order to allocate more time to <s>raking in millions</s> my family, friends, and actual hobbies.
 
 To these auspicious ends, I am relying on dependencies that will save me greatly in up-front as well as long-term costs and shunning those that offer mainly convenience (like an ORM, CSS toolkit, or flashy Javascript UI framework). I believe the trendy people call this "boring technology" nowadays. I chose dependencies that are relatively small, easy to understand, and if not mature are at least apparently stable and therefore unlikely to impinge upon my buttocks dramatically in the future. I also hope that I have structured things in a way that will make it relatively easy to swap out parts for better or more available versions in the future.
 
