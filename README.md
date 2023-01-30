@@ -1,3 +1,13 @@
+# About
+
+[This is my blog.](https://blog.bityard.net/)
+
+# Previewing
+
+```
+make devserver
+```
+
 # Building with Docker
 
 ```
