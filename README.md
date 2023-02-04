@@ -15,6 +15,7 @@ make venv
 Run the Pelican development server:
 
 ```
+. .venv/bin/activate
 make devserver
 ```
 
