@@ -2,7 +2,19 @@
 
 [This is my blog.](https://blog.bityard.net/)
 
-# Previewing
+# Development/Preview Environment
+
+Set up the virtual environment:
+
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install wheel
+pip install -r requirements.txt
+```
+
+Run the Pelican development server:
 
 ```
 make devserver
