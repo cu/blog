@@ -30,6 +30,13 @@ ARCHIVES_SAVE_AS = 'articles/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'articles/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'articles/{date:%Y}/{date:%B}/index.html'
 
+STATIC_PATHS = [
+    'extra/headers',
+]
+EXTRA_PATH_METADATA = {
+    'extra/headers': {'path': '_headers'},
+}
+
 USE_FOLDER_AS_CATEGORY = False
 
 # Provides document-relative URLs when developing
