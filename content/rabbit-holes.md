@@ -3,7 +3,7 @@ Date: 2019-08-24
 Tags: Linux
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/rabbit-holes/image1.png">
+  <img src="{static}/images/rabbit-holes/image1.png">
   <figcaption>
     (Alternate Title: How to Shut Up the Ubuntu MOTD, the Long Way)
   </figcaption>
@@ -127,7 +127,7 @@ Last login: Fri Aug 16 23:45:01 2019 from 127.0.0.1
 Stellar. Now there are 28 lines of crap! But at least we know `/etc/motd` does _something_. _Sigh_. And we also know that `/etc/` is where a bunch of system configuration lives, so maybe there's something else in there that has to do with the MOTD. Let's use `grep`:
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/rabbit-holes/image2.png">
+  <img src="{static}/images/rabbit-holes/image2.png">
 </figure>
 
 It turns out there's quite a lot! There are some promising leads here, but skimming over the list of possibilities, the last few lines catch my attention the most since those files are in a directory called `/etc/update-motd.d`. These are the files in it:

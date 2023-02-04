@@ -2,9 +2,11 @@ Title: Linux Neckbeard Shocked, A Newfangled Code Editor that Doesn't Suck
 Date: 2017-10-29
 Tags: Linux
 
-<a href="https://img.bityard.net/blog/vscode/vscode-01.png">
-  <img src="https://img.bityard.net/blog/vscode/vscode-01-640.png">
-</a>
+<figure>
+  <a href="{static}/images/vscode/vscode-01.png">
+    <img src="{static}/images/vscode/vscode-01-640.png">
+  </a>
+</figure>
 
 It was a dark and stormy night. My eyes were glued to the screen as I watched
 the [Ansible](https://www.ansible.com/) playbook make its way through the
@@ -95,9 +97,11 @@ head while making clucking sounds.
 
 This is (approximately) what greeted me:
 
-<a href="https://img.bityard.net/blog/vscode/vscode-02.png">
-  <img src="https://img.bityard.net/blog/vscode/vscode-02-640.png">
-</a>
+<figure>
+  <a href="{static}/images/vscode/vscode-02.png">
+    <img src="{static}/images/vscode/vscode-02-640.png">
+  </a>
+</figure>
 
 The first thing that I wondered was whether this thing can do vim well enough
 to hold at bay my chair-throwing tendencies when a tool doesn't work the way I
@@ -122,7 +126,7 @@ no point in me rehashing all of its features and whatnot here. So I'll just
 mention a few of the things that tick my boxes:
 
 **Integrated vim**. Basically, all of the important things I routinely do in
-vim work in VSC. 
+vim work in VSC.
 
 **Integrated file manager**. It works pretty much exactly as I would expect
 with no surprises. To spruce it up just a bit, I also installed the
@@ -189,9 +193,11 @@ the sand somewhere.
 me a little crazy. Not so crazy that I've looked up the setting to disable it,
 but still.
 
-<a href="https://img.bityard.net/blog/vscode/vscode-03.png">
-  <img src="https://img.bityard.net/blog/vscode/vscode-03-640.png">
-</a>
+<figure>
+  <a href="{static}/images/vscode/vscode-03.png">
+    <img src="{static}/images/vscode/vscode-03-640.png">
+  </a>
+</figure>
 
 I have been using Linux both personally and professionally for basically all
 of my adult life and have actively avoided Windows and other Microsoft

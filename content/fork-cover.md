@@ -5,9 +5,7 @@ Tags: DIY, Craftiness, Linux, Motorcycles
 So I have this motorcycle.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/motorbike.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/motorbike-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/motorbike-640.jpg">
 </figure>
 
 It's a lot of fun.
@@ -30,16 +28,14 @@ The first thing one does in this situation is head onto eBay and see if by some 
 I'm not going to spend a lot of analog currency on a [farkle](https://www.dictionary.com/e/pop-culture/farkle/). I resolved to stay in the $$ category and purchased a shiny-looking cover with a missing emblem. Which is another way of saying I solved half the problem, throwing the other half over the wall at poor, defenseless Future Me to deal with. I'm a jerk like that.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/fork-cover.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/fork-cover-640.jpg">
-  </a>
+    <img src="{static}/images/fork-cover/fork-cover-640.jpg">
   <figcaption>Shiny, mostly.</figcaption>
 </figure>
 
 > Sidebar: This part isn't 100% completely correct for the bike. Out of the factory, the fork cover for this bike had a more boxy--dare I say _chonkier_--look to it. But those are even harder to find and I like the slightly more streamlined look of this one better. But be forewarned, it's often a gamble when buying parts for a different model year than the vehicle you currently have, ask me how I know.
 
 <figure>
-  <img src="https://img.bityard.net/blog/fork-cover/fork-cover-diagram.png">
+  <img src="{static}/images/fork-cover/fork-cover-diagram.png">
   <figcaption>The real McCoy.</figcaption>
 </figure>
 
@@ -50,26 +46,22 @@ Eventually, it came time to figure out what to do about the missing emblem. Afte
 From the factory, this cover would have had a tastefully understated stylized "S" in the middle, like this picture I stole off eBay:
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/rustay.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/rustay-640.jpg">
-  </a>
+    <img src="{static}/images/fork-cover/rustay-640.jpg">
   <figcaption>This one's been hanging out at the beach or something.</figcaption>
 </figure>
 
 However, a few Suzuki bikes plastered the brand's name across nearly the entirety of the emblem which is far bolder and maybe a little snazzier:
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/suzuki-full.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/suzuki-full-640.jpg">
-  </a>
+    <img src="{static}/images/fork-cover/suzuki-full-640.jpg">
   <figcaption>At least you'd never have to wonder who made your bike again.</figcaption>
 </figure>
 
 I hemmed and hawed over this for a good long while couldn't make up my mind which version I wanted, so I ended up drawing both:
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/both-logos.png">
-    <img src="https://img.bityard.net/blog/fork-cover/both-logos-640.png">
+  <a href="{static}/images/fork-cover/both-logos.png">
+    <img src="{static}/images/fork-cover/both-logos-640.png">
   </a>
   <figcaption>Decisions, decisions...</figcaption>
 </figure>
@@ -83,22 +75,20 @@ The real emblems have a slightly more rectangular look to them than mine did bec
 The outside of the cover is shiny and pristine. However, the chrome on the inside of the cover was very thin; the plating has all been rusted through. Which is par for the course on these, for better or worse. The rust is just on the surface, however, and will come off easily.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/inside.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/inside-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/inside-640.jpg">
   <figcaption>Some spiders lived here once.</figcaption>
 </figure>
 
 Once I had a game plan, it was time to put down the whiskey and start actually doing stuff. The first order of business was to de-rust the underside of the cover. Normally my go-to for rust removal is vinegar and plenty of patience. But vinegar is an acid and I wasn't 100% sure it wouldn't tarnish or eat into the chrome. I had been wanting to try [Evapo-rust](https://www.evapo-rust.com/) after hearing about it on forums and from various YouTubers, some of whom were paid to say nice things about it. It claims to be "super safe" and several of their example images show it cleaning up chrome, so I decided to give it a shot. There was just one caveat...
 
 <figure>
-  <img src="https://img.bityard.net/blog/fork-cover/erust-temp.png">
+  <img src="{static}/images/fork-cover/erust-temp.png">
 </figure>
 
 It was towards the end of winter when I did this and I didn't want to use the Evapo-rust inside my house. The label on the bottle makes it sound like it's perfectly fine to stir a spoonful into your morning tea but [the SDS](https://images.salsify.com/image/upload/s--ehrZNHce--/dkbajupk7iagslw4ne4m) says it can cause skin and eye irritation. So in the garage it had to be. Only problem is that the garage wasn't warm enough...
 
 <figure>
-  <img src="https://img.bityard.net/blog/fork-cover/garage-temp.png">
+  <img src="{static}/images/fork-cover/garage-temp.png">
 </figure>
 
 And from what I was reading online, several people said that they weren't having any luck with Evapo-rust under 65 degrees, which would be even more of a challenge.
@@ -106,9 +96,7 @@ And from what I was reading online, several people said that they weren't having
 My solution to this is a makeshift version of an EZ-Bake oven. Or hot-plate, anyway. I have these LED flood lights I sometimes use as work lights. They throw off 100W of heat once they get up to temperature. This seemed like enough to heat liquid up to at least room temperature. I did an experiment with just water and found that after a few hours, the temp of the water rose to about 84 degrees and stayed put. Perfect! All that was left to do was give the real thing a soak.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/bathtime.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/bathtime-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/bathtime-640.jpg">
   <figcaption>Bath time!</figcaption>
 </figure>
 
@@ -117,9 +105,7 @@ This worked surprisingly well. I let the Evapo-rust do its thing overnight and c
 I masked off all the chrome on the outside and shot the inside with an etching metal primer, followed by a slightly-metallic silver automotive paint, both of which I already had lying around.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/inside-painted.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/inside-painted-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/inside-painted-640.jpg">
   <figcaption>Nobody will ever see this. :/</figcaption>
 </figure>
 
@@ -130,8 +116,8 @@ Now for the fun bit. According to The Internet, the good stuff is genuine [Oraca
 My wife has a Silhouette vinyl cutter which does some pretty amazing stuff. Unfortunately the company is run by shitheads because even after you buy the machine, you can't simply import an SVG into the program and go to town. Heavens no. You have to _buy an upgrade to the software_ before it will even let you work with vector graphics. Which is insane because it's literally just a 2D plotter a knife instead of a pen.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/marketing-wank.png">
-    <img src="https://img.bityard.net/blog/fork-cover/marketing-wank-640.png">
+  <a href="{static}/images/fork-cover/marketing-wank.png">
+    <img src="{static}/images/fork-cover/marketing-wank-640.png">
   </a>
   <figcaption>You should click this, the Silhouette marketing team demonstrate some refreshing candor!</figcaption>
 </figure>
@@ -145,23 +131,17 @@ If by some chance you want to cut out your own Suzuki logos, there is a link to 
 Since I had a ton of vinyl (it's pretty affordable in bulk!), I decided to just cut out a big batch of these all at once, in case I messed a few up, and to give a few away to friends. I started with the black backgrounds and then the silver S logos and Suzuki logos.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/backgrounds.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/backgrounds-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/backgrounds-640.jpg">
   <figcaption>A bunch of backgrounds.</figcaption>
 </figure>
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/foregrounds.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/foregrounds-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/foregrounds-640.jpg">
   <figcaption>A bunch of foregrounds.</figcaption>
 </figure>
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/completed-emblems.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/completed-emblems-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/completed-emblems-640.jpg">
   <figcaption>All together now.</figcaption>
 </figure>
 
@@ -177,9 +157,7 @@ The vinyl we're using has a fairly strong adhesive on the back. The process of l
 After that, you are left with a fork cover that looks like this:
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/cover-with-emblem.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/cover-with-emblem-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/cover-with-emblem-640.jpg">
   <figcaption>With roll of tape for scale.</figcaption>
 </figure>
 
@@ -192,27 +170,21 @@ Although the vinyl I chose is supposed to do well enough on its own, I decided I
 As a wise man once said, "I may be stupid but I ain't dumb." I made sure this was actually halfway cromulent for this application and then sprayed it over some scrap vinyl on top of some scrap metal. Looks-wise, it turned out even better than I was hoping and seemed to be durable enough.
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/test-subject.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/test-subject-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/test-subject-640.jpg">
   <figcaption>Our test subject.</figcaption>
 </figure>
 
 I again masked off the chrome and then went to town with the laquer. This is a look at the end result, before any polishing:
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/final-product.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/final-product-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/final-product-640.jpg">
   <figcaption>Our final product.</figcaption>
 </figure>
 
 And here it is installed on the bike:
 
 <figure>
-  <a href="https://img.bityard.net/blog/fork-cover/natural-habitat.jpg">
-    <img src="https://img.bityard.net/blog/fork-cover/natural-habitat-640.jpg">
-  </a>
+  <img src="{static}/images/fork-cover/natural-habitat-640.jpg">
   <figcaption>I'd say it looks like it belongs there.</figcaption>
 </figure>
 
@@ -222,8 +194,8 @@ I'm embarrassed to say it didn't even dawn on me until late in the game that ins
 
 # The Resources
 
-  * [Suzuki Logo on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suzuki_logo_2.svg) and [Mirror](https://img.bityard.net/blog/fork-cover/Suzuki_logo_2.svg)
-  * [Background and logos here](https://img.bityard.net/blog/fork-cover/logos_cuttable.svg).
+  * [Suzuki Logo on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suzuki_logo_2.svg) and [Mirror]({static}/images/fork-cover/Suzuki_logo_2.svg)
+  * [Background and logos here]({static}/images/fork-cover/logos_cuttable.svg).
   * [Inkscape Silhouette Plugin](https://github.com/fablabnbg/inkscape-silhouette)
 
 Once you have the plugin installed, all you should have to do is load the SVG above into Inkscape, drag them around however you want, clone them, etc, and send them to the cutter. If you make any modifications, remember that the plugin wants everything to be a path.

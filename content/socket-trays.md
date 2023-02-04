@@ -2,9 +2,9 @@ Title: Stackable Ratchet and Socket Trays
 Date: 2018-01-21
 Tags: Shop, DIY
 
-<a href="https://img.bityard.net/blog/socket-trays/final.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/final-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/final-640.jpg">
+</figure>
 
 I have accumulated quite a lot of sockets over the years. Some were purchased
 as a set, some were given to me by my father (a former auto mechanic) from
@@ -12,9 +12,9 @@ his extensive collection. A few just turned up out of nowhere unexpectedly. I
 looked for a long time (years, in fact) for a sane way to organize them.
 Basically if I wanted to pay money, these are all of my options:
 
-<a href="https://img.bityard.net/blog/socket-trays/tool-drawer-organizers.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/tool-drawer-organizers-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/tool-drawer-organizers-640.jpg">
+</figure>
 
 **Tool drawer organizers.** There are lots of options for these, most are either
 foam or plastic. They are intended to fit into a drawer and have a spot for
@@ -25,9 +25,9 @@ Or, more likely, trying to find the right size. It's maddening and frankly I'm
 done with it. I want to bring my sockets to where I'm working, quite often
 under a car.
 
-<a href="https://img.bityard.net/blog/socket-trays/plastic-trays-and-rails.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/plastic-trays-and-rails-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/plastic-trays-and-rails-640.jpg">
+</figure>
 
 **Socket caddies and bars.** These come in two major forms, the plastic spoke
 trays and and clip-on bars. These are portable, but they're awkward. They
@@ -37,9 +37,9 @@ tool box. The plastic versions of these are both expensive for what they are
 and cheaply made. I tried the clip-on bars in the past and always hated them
 for various reasons.
 
-<a href="https://img.bityard.net/blog/socket-trays/socket-set.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/socket-set-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/socket-set-640.jpg">
+</figure>
 
 **Buy a socket set that comes with its own case.** Of these three poor options,
 this is actually the most rational. However, if you already have a full set
@@ -66,17 +66,17 @@ hand.
 * Simple to build with relatively few tools. (I am not an
 advanced wood worker. Yet.)
 
-<a href="https://img.bityard.net/blog/socket-trays/magazine-idea.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/magazine-idea-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/magazine-idea-640.jpg">
+</figure>
 
 While I had all of this brewing in the back of my mind, I happened to be
 visiting my in-laws and ran across this project in a wood-working magazine.
 This was just about exactly what I was looking for.
 
-<a href="https://img.bityard.net/blog/socket-trays/layout.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/layout-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/layout-640.jpg">
+</figure>
 
 Now that I had a decent design in mind, I laid out all of the sockets a
 second time to get an idea for how much space each tray would take up. I drew
@@ -85,9 +85,9 @@ sense to make them all the same size, so the "stackable" part didn't quite
 pan out exactly as I had hoped. Still, some of them are close enough in size
 that they technically do stack.
 
-<a href="https://img.bityard.net/blog/socket-trays/plywood.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/plywood-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/plywood-640.jpg">
+</figure>
 
 I tried to make these all out of scrap materials. The only scrap plywood
 I had in abundance was 5/16" 3-ply sheathing. In other words, pretty crappy
@@ -99,9 +99,9 @@ just around the edges would work fine. Nope. The glue pushed the middle up and
 caused a significant bow. It wasn't too noticeable visually but would cause a
 problem attaching the handle later on.
 
-<a href="https://img.bityard.net/blog/socket-trays/handle.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/handle-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/handle-640.jpg">
+</figure>
 
 Figuring out the hole size for the handle. The main goal here was being able
 to fit my fingers through comfortably with gloves on.
@@ -111,25 +111,25 @@ each end with a 1" Forstner bit, and then cutting out the waste between the
 holes with a jig saw. Since my jig saw sucks, I had to clean up each and every
 one with a file and then I routed the whole thing with a roundover bit.
 
-<a href="https://img.bityard.net/blog/socket-trays/half-inch-test-fit.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/half-inch-test-fit-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/half-inch-test-fit-640.jpg">
+</figure>
 
 This shows the first "test fit" of the 1/2" socket tray. Everything fits
 swimmingly.
 
-<a href="https://img.bityard.net/blog/socket-trays/quarter-inch-test-fit.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/quarter-inch-test-fit-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/quarter-inch-test-fit-640.jpg">
+</figure>
 
 This shows the test fit for the 1/4" tray. The handle and sides were made out
 of cedar scraps, of all things. Cedar is very soft but seems like it
 will work just fine. If not, it's easy to replace with something more stout
 later.
 
-<a href="https://img.bityard.net/blog/socket-trays/placement.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/placement-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/placement-640.jpg">
+</figure>
 
 The next step was figuring out exactly where each dowel or rod would go.
 For the larger sockets, I could arrange them exactly where I wanted them to be
@@ -149,26 +149,26 @@ paper) and then just filling in all of the numbers with a small-diameter
 mechanical pencil. It doesn't look terrific, but it will do. A coat of poly
 on top should keep them readable for a long time.
 
-<a href="https://img.bityard.net/blog/socket-trays/glue-trim.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/glue-trim-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/glue-trim-640.jpg">
+</figure>
 
 Gluing the number trim pieces into place. I believe I used construction
 adhesive to make cleaning up a lot easier. Dealing with dried wood glue here
 would have been a massive pain.
 
-<a href="https://img.bityard.net/blog/socket-trays/poly.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/poly-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/poly-640.jpg">
+</figure>
 
 Polyurethane applied. I only used one coat. It probably should have had at
 least one more but I was itching to get these done and don't think another
 would have made a huge difference in the long run. I can still go back and do
 some light sanding and use some rattle-can poly later.
 
-<a href="https://img.bityard.net/blog/socket-trays/holes-drilled.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/holes-drilled-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/holes-drilled-640.jpg">
+</figure>
 
 Here I just finished drilling holes for the dowels on the 3/8" tray. I used
 dowels here and on the 1/2" tray and used metal rods for the 1/4" tray. Each
@@ -177,32 +177,32 @@ them from jumping right off whenever the tray is bumped. I messed up a couple
 holes either by drilling them too large or off-center and had to fill them up
 and redo them.
 
-<a href="https://img.bityard.net/blog/socket-trays/dowel-in-chuck.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/dowel-in-chuck-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/dowel-in-chuck-640.jpg">
+</figure>
 
 I flattened and rounded off each peg (both wood and metal) in the drill press
 with the aide of sand paper and files. This was extremely boring and tedious.
 
-<a href="https://img.bityard.net/blog/socket-trays/half-inch-done.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/half-inch-done-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/half-inch-done-640.jpg">
+</figure>
 
 The finished contraption! Here is the 1/2" tray.
 
 Fit and finish could be loads better but they are plenty functional and easy
 to carry around and store, which is exactly what I want.
 
-<a href="https://img.bityard.net/blog/socket-trays/quarter-inch-in-progress.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/quarter-inch-in-progress-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/quarter-inch-in-progress-640.jpg">
+</figure>
 
 The 1/4" tray in progress. I put the regular and deep sockets all on the same
 tray.
 
-<a href="https://img.bityard.net/blog/socket-trays/final.jpg">
-  <img src="https://img.bityard.net/blog/socket-trays/final-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/socket-trays/final-640.jpg">
+</figure>
 
 All three again. I'm very pleased with how these turned out, even if they're
 slightly on the ugly side. The only one not pictured here is the one for the

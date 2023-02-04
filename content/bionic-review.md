@@ -3,9 +3,7 @@ Date: 2018-04-26
 Tags: Linux
 
 <figure>
-  <a href="https://img.bityard.net/blog/bionic-review/beav.jpg">
-    <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/beav_640.jpg">
-  </a>
+  <img src="{static}/images/bionic-review/beav_640.jpg">
   <figcaption>The Beav in all his geometric glory.</figcaption>
 </figure>
 
@@ -29,11 +27,11 @@ Finally, a disclaimer: The criteria by which I judge this new Ubuntu are my own.
 
 ## First Impressions
 
-I fired up Bionic in a virtual machine (KVM) to get a sense for whether or not I was going to hate it right out of the gate. My understanding is that 18.04 is basically GNOME 3 with some amount of tweaking, which I also have not used up until today.  
+I fired up Bionic in a virtual machine (KVM) to get a sense for whether or not I was going to hate it right out of the gate. My understanding is that 18.04 is basically GNOME 3 with some amount of tweaking, which I also have not used up until today.
 
-<a href="https://img.bityard.net/blog/bionic-review/first_boot.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/first_boot_640.png">
-</a>
+<figure>
+  <img src="{static}/images/bionic-review/first_boot_640.png">
+</figure>
 
 Okay, not too bad. It was a little surpising that the icons in the upper-right area of the screen were basically all one big button instead of independent widgets but I think I can live with that. At this point, I don't know quite what "Activities" is, although there is a search bar in there which is apparently for looking up installed applications.
 
@@ -54,9 +52,9 @@ The act of powering up a computer, waiting for it to boot, doing some work, and 
 
 ## Multiple Display Support
 
-<a href="https://img.bityard.net/blog/bionic-review/display_settings.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/display_settings_640.png">
-</a>
+<figure>
+  <img src="{static}/images/bionic-review/display_settings_640.png">
+</figure>
 
 Both my work and personal machines are laptops. But I also have external monitors in both locations. There's zero point in even having a laptop on your desk if you can't pick it at a moment's notice and take it to a meeting and then come back without having to manually tell it about it's new reality vis-a-vis number of displays and manually rearranging windows on the screen each time something changes. GNOME 2 and MATE always did this perfectly every time. Not much else that I tried since has. XFCE has gotten close but only recently. Here's what I hope Bionic can accomplish without too much drama:
 
@@ -71,9 +69,9 @@ Both my work and personal machines are laptops. But I also have external monitor
 
 ## Multiple Audio Device Support
 
-<a href="https://img.bityard.net/blog/bionic-review/sound_settings.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/sound_settings_640.png">
-</a>
+<figure>
+  <img src="{static}/images/bionic-review/sound_settings_640.png">
+</figure>
 
 My laptops have internal speakers and microphones along with ports on the devices themselves as well as the docks they plug into. I generally use all of them for different purposes at different times.
 
@@ -91,9 +89,7 @@ All in all, I'm pleased that all of the general-purpose audio stuff in Ubuntu wo
 ## Touchpad, Keyboard, Mouse Customization
 
 <figure>
-  <a href="https://img.bityard.net/blog/bionic-review/keyboard_settings.png">
-    <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/keyboard_settings_640.png">
-  </a>
+  <img src="{static}/images/bionic-review/keyboard_settings_640.png">
   <figcaption>There you are, you wily bugger.</figcaption>
 </figure>
 
@@ -111,10 +107,8 @@ The only reason this section is here is because in the latest release, XFCE (or 
 ## Window and Desktop Management
 
 <figure>
-<a href="https://img.bityard.net/blog/bionic-review/activities.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/activities_640.png">
-</a>
-<figcaption>I don't know what's real anymore.</figcaption>
+  <img src="{static}/images/bionic-review/activities_640.png">
+  <figcaption>I don't know what's real anymore.</figcaption>
 </figure>
 
 I won't deny that in certain respects I am set in my ways. You didn't ask for them, but here are some of my ways.
@@ -140,9 +134,9 @@ As a system administrator, a large part of my job is using SSH to log into rando
 
 ## Remote Filesystems
 
-<a href="https://img.bityard.net/blog/bionic-review/remote_filesystems.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/remote_filesystems_640.png">
-</a>
+<figure>
+  <img src="{static}/images/bionic-review/remote_filesystems_640.png">
+</figure>
 
 At home, I have a few NAS filesystems that I use regularly. They can be accessed as CIFS shares or via SSHFS. I'd like at least one of these to work.
 
@@ -173,9 +167,7 @@ The blatant Amazon advertising. Removing the giant "A" logo from the panel is a 
 When the display goes to sleep due to lack of input or whatever, you have to drag upwards with your mouse to unlock the screen. Like some common dirty frickin' smart phone. And unfortunately, this is not obvious. After a few minutes of my second-favorite hobby, Keyboard Mashing Time, it turns out that the Esc key (and no other) will clear it as well.
 
 <figure>
-  <a href="https://img.bityard.net/blog/bionic-review/lock_screen.png">
-    <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/lock_screen_640.png">
-  </a>
+  <img src="{static}/images/bionic-review/lock_screen_640.png">
   <figcaption>I'm not a smart phone, but I play one on TV.</figcaption>
 </figure>
 
@@ -186,9 +178,7 @@ Dragging a window to the top of the screen maximizes the window. FOR GODS SAKE W
 # Things That Puzzled Me
 
 <figure>
-  <a href="https://img.bityard.net/blog/bionic-review/update_lies.png">
-    <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/update_lies_640.png">
-  </a>
+  <img src="{static}/images/bionic-review/update_lies_640.png">
   <figcaption>Ubuntu Software, a.k.a. Pack of Lies</figcaption>
 </figure>
 
@@ -202,9 +192,9 @@ And while we're on the topic of aesthetic issues, I still can't work out who at 
 
 # Pleasant Surprises
 
-<a href="https://img.bityard.net/blog/bionic-review/nextcloud_account.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/bionic-review/nextcloud_account_640.png">
-</a>
+<figure>
+  <img src="{static}/images/bionic-review/nextcloud_account_640.png">
+<figure>
 
 Ubuntu offers intergration with a number of services, among them Nextcloud. If you haven't heard of it, [Nextcloud](https://nextcloud.com/) is a file and productivity server. It has a number of different "Apps" but I use it mainly as a calendar server. When I put in my Nextcloud credentials and lauched the Calendar program, a perfectly serviceable calendar appeared with all of my events on it. That's pretty cool. The other Nextcloud services worked fine as well.
 

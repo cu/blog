@@ -2,9 +2,9 @@ Title: My BITX40 Build
 Date: 2017-06-09
 Tags: Radio
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-01.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-01-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-01-640.jpg">
+</figure>
 
 The BITX40 is a QRP (low-power) transceiver kit for the 40 meter amateur radio
 band. Although it is low-power (nominal 7 watts), and restricted to a single
@@ -29,42 +29,42 @@ whatnot. It's built like a tank and is extremely high quality overall. You
 should be able to find it for around $20 shipped, just search for the
 dimensions "203x144x68mm".
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-02.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-02-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-02-640.jpg">
+</figure>
 
 As she arrived. I ended up losing one of the standoffs somewhere. Also, it came
 with a tiny SMD capacitor in the box that I have not been able to divine the
 purpose of. Did not find it in the instructions, nor did any googling turn
 anything useful up. If anyone knows what it's for, let me know.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-03.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-03-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-03-640.jpg">
+</figure>
 
 I started with the easy stuff. Power and antenna connectors mounted and vent
 holes drilled. In this picture they look very misaligned. in real life, it's
 hard to notice.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-04.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-04-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-04-640.jpg">
+</figure>
 
 Drilled more vent holes in the bottom of the case and mounted the stand-offs.
 Again, not the best on alignment but these are on the bottom anyway, so whatev.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-05.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-05-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-05-640.jpg">
+</figure>
 
 The BITX40 mainboard mounted up just fine. I wanted to have both the antenna
 connector and RF final transistor close to the back of the case. This achieves
 that. Some day, it will be fairly easy to add a bigger heat sink to the final
 transistor.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-06.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-06-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-06-640.jpg">
+</figure>
 
 Now the hard part: Mocking up placement of front panel parts. In this photo,
 I'm just checking that everything fits comfortably on the 2D side of things.
@@ -82,9 +82,9 @@ one off to the side. All the Radio Shacks around me are going out of business
 so I raided their goody bins one by one. Most of the "extra" parts you see here
 are from those sales, including the knobs.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-07.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-07-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-07-640.jpg">
+</figure>
 
 First rough draft of the front panel layout.
 
@@ -94,32 +94,32 @@ pinout of the speaker mic, as deduced by multimeter. If you have a look at the
 first pic and then this pinout, you may be able to see where I was going to run
 into trouble later on.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-08.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-08-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-08-640.jpg">
+</figure>
 
 A more precise layout of the front controls (reversed).
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-09.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-09-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-09-640.jpg">
+</figure>
 
 The final mockup using sheet metal. I ended up moving the power switch to the
 left about a centimeter so I have more room for switches and buttons and stuff
 later on.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-10.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-10-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-10-640.jpg">
+</figure>
 
 And a view of the rear of the mockup shows that everything is packed rather
 tightly together. This is why I was so careful about laying it out multiple
 times. I didn't want to be putting parts into the final panel only to discover
 that one thing physically interfered with something else.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-11.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-11-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-11-640.jpg">
+</figure>
 
 This is why I was so careful about laying it out multiple times. I didn't want
 to be putting parts into the final panel only to discover that one thing
@@ -127,50 +127,50 @@ physically interfered with something else.
 
 Thankfully, it was all good.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-12.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-12-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-12-640.jpg">
+</figure>
 
 Starting to lay out the front panel.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-13.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-13-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-13-640.jpg">
+<figure>
 
 Pilot holes all drilled. Some will stay this size, some will get embiggened.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-14.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-14-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-14-640.jpg">
+</figure>
 
 To get a clean rectangular opening for the LCD panel, I used a dremel, a file, and a steady hand.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-15.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-15-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-15-640.jpg">
+</figure>
 
 All holes drilled finally. From the beginning of layout to the end product, it
 took an absurd amount of time. But everything fit perfectly, so it was worth
 it.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-16.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-16-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-16-640.jpg">
+</figure>
 
 The moment of truth: the final test fit. All good!
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-17.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-17-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-17-640.jpg">
+</figure>
 
 This is what I had to resort to in order to mount the front panel. Even if I
 would have used the four standoffs that it came with, the radiuno board would
 have been floppin' in the breeze. The right selection of standoffs and nuts
 would take care of this issue.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-18.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-18-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-18-640.jpg">
+</figure>
 
 Remember the mic issue I alluded to before? Do you see it now?
 
@@ -186,33 +186,33 @@ add a new piece of plastic plus rivets and B) couldn't really be arsed.
 
 So, wat do?
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-19.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-19-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-19-640.jpg">
+</figure>
 
 It ain't pretty, but it works. The tip of the larger jack was unused, so now
 it's the PTT.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-20.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-20-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-20-640.jpg">
+</figure>
 
 All wired up!
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-21.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-21-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-21-640.jpg">
+</figure>
 
 Wires and such prettied up with zip ties.
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-22.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-22-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-22-640.jpg">
+</figure>
 
 Verdict: EET VERKS!
 
-<a href="https://img.bityard.net/blog/my-bitx40-build/bitx40-23.jpg">
-  <img src="https://img.bityard.net/blog/my-bitx40-build/bitx40-23-640.jpg">
-</a>
+<figure>
+  <img src="{static}/images/my-bitx40-build/bitx40-23-640.jpg">
+</figure>
 
 Shot of the rear end, for those who are into that sort of thing.

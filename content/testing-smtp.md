@@ -16,7 +16,7 @@ E-mail was and still is a complicated, fragile system. You can do everything rig
 One of my first jobs was at a managed web hosting provider. Back then, if you wanted to become an expert on Apache, PHP, and email, then working the phones at a company like this was the quickest path "grizzled veteran" status. It's safe to say I learned me some email at that job.
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/smtp/exim.png">
+  <img src="{static}/images/smtp/exim.png">
 </figure>
 
 I'm pretty comfortable with mail administration and troubleshooting nowadays. Heck, I even host my own personal mail server. Not out of necessity or anything, mostly just to annoy people on Reddit and HN who say it's impossible. My own setup is pretty stable and very rarely needs any attention. But either at work or at home, I sometimes find myself needing to troubleshoot occasional mail-related issues.
@@ -32,7 +32,7 @@ If you want to try some of these out but don't have your own mail server to fool
 It's important to know that when you (or perhaps even your mail client) send a message via SMTP, you're not just blasting a request at a server and hoping for a response, as with HTTP. Instead, SMTP more closely resembles a _conversation_. You say something, the server replies. You say another thing, the server replies again, and so on, until everything that needs to be said has been said and the discussion ends amicably. If you say something out of order, or that the mail server doesn't understand, it will act confused or just rudely hang up on you.
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/smtp/protip.png">
+  <img src="{static}/images/smtp/protip.png">
 </figure>
 
 It's also worth pointing out early on that the SMTP standards require CR+LF line endings. (That's a carriage return character `0x0d`, followed by a linefeed character `0x0a`.) Most mail servers will happily accept stand-alone LF or (heaven forbid) CR line endings, but you shouldn't always count on that. When troubleshooting, you generally want to do things the way they are supposed to be done so as not to be lead down the garden path by your own incompetence, ask me how I know.
@@ -46,7 +46,7 @@ When you connect to an SMTP server, it will tell you its name and then wait for 
 [^hostname]: Real Mail Servers out there in Cyberspace _may_ try to verify that you are who you say you are with a DNS lookup or two and might close the connection if they think you are lying. But on an internal mail relay or somesuch, you can often get away with some degree of subterfuge.
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/smtp/helo.png">
+  <img src="{static}/images/smtp/helo.png">
 </figure>
 
 Different mail servers reply with different text, the important bit is that the response starts with `250`. That's SMTPese for, "I don't hate you yet, let's keep talking."
@@ -58,7 +58,7 @@ You can also use `EHLO` instead of `HELO`. All this does is tell the server that
 Next we say who the message is from and who the message is to.
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/smtp/envelope.png">
+  <img src="{static}/images/smtp/envelope.png">
 </figure>
 
 ### 3. Message
@@ -66,13 +66,13 @@ Next we say who the message is from and who the message is to.
 If you've made it this far, there's a _fair_ chance the server will accept the message _and_ it might actually even deliver it. So we tell it that we're about to send the message:
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/smtp/data.png">
+  <img src="{static}/images/smtp/data.png">
 </figure>
 
 This means the server is ready to accept the message. Each mail message consists of two parts, the headers and the body. These must be separated by a blank line. (If you're reading this article, I'll presume you know what email headers are.) Note that the mail server is helpfully telling you how to signal the end of the message: A blank line, a dot, and another blank line. Here's an example of what to send:
 
 <figure>
-  <img class="blog-image" src="https://img.bityard.net/blog/smtp/message.png">
+  <img src="{static}/images/smtp/message.png">
 </figure>
 
 Note that different mail servers tend to respond to confusion in the headers  in different ways. The `To` and `From` headers don't _always_ have to match what you put in the envelope (this is to allow for things like mailing lists and forwarding to work), and technically a `Subject` header is optional. But a lot of things will go easier for you in life if you don't try to optimize for the smallest possible character count.

@@ -2,7 +2,9 @@ Title: The Design of Silicon Notes, with Cartoons
 Date: 2022-12-03
 Tags: Programming
 
-![humorous cartoon of an idiot](https://img.bityard.net/blog/silicon/idiot.png)
+<figure>
+  <img src="{static}/images/design-silicon-notes/idiot.png">
+</figure>
 
 I'm able to get a good grasp on big-picture stuff relatively easily. However, I don't have a great memory for technical details, even stuff that I do almost every day. I imagine my co-workers are freqently amazed that I can even remember how to put on pants in the morning. I know people who are able memorize the fine details of complex systems, and regurgitate them at will, sometimes years after the fact. I'm not one of them.
 
@@ -11,8 +13,8 @@ I'm able to get a good grasp on big-picture stuff relatively easily. However, I 
 [Silicon]: https://github.com/cu/silicon
 
 <figure>
-  <a href="https://img.bityard.net/blog/silicon/view_full.png">
-    <img src="https://img.bityard.net/blog/silicon/view_thumb.png">
+  <a href="{static}/images/design-silicon-notes/view_full.png">
+    <img src="{static}/images/design-silicon-notes/view_thumb.png">
   </a>
 </figure>
 
@@ -28,7 +30,9 @@ It's only natural that as a field of technology progresses, innovation and novel
 
 It's not hard to understand why. When you want users to see your work--or perhaps as often, employers and clients--you need to grab their attention. Applications that _look_ interesting are desirable for that. Or at least it certainly helps with "spreading the word" through our present-day visual web and social media.
 
-![unscrupulous emoji cartoon](https://img.bityard.net/blog/silicon/emoji.png)
+<figure>
+  <img src="{static}/images/design-silicon-notes/emoji.png">
+</figure>
 
 Designing software is an inheriently creative process, but there is often a tension between engineering a program that does its job efficiently, and making it visually interesting in order to attract attention. A good balance can often be struck but when programs are presented as tools and end up veering into "art project" territory, functionality usually suffers to some degree or another.
 
@@ -71,7 +75,9 @@ The app is web-based for the following reasons:
 
 Previous iterations of this app relied on bootstrap, jQuery, larger web frameworks, etc. The problem with these is that they eventually show their age. Sure, you can pin versions and just keep using them forever like some kind of pleb, and you might even get away with it! But eventually a security vulnerability or incompatibility with a modern version of the programming language comes to bite you in the buttocks. And the size of your buttocks grows bigger as the number of dependencies grow.
 
-![glamorous buttocks cartoon](https://img.bityard.net/blog/silicon/buttocks.png)
+<figure>
+  <img src="{static}/images/design-silicon-notes/buttocks.png">
+</figure>
 
 I plan on using this app for the rest of my life. But maintaining it is not a hobby. (I have more than enough of those already.) Despite wishing quite intently for it, I am not yet immortal and there is a lot more I want to do before my clock winds down. I want to spend as little time as possible working on this tool going forward, in order to allocate more time to <s>raking in millions</s> my family, friends, and actual hobbies.
 
@@ -92,7 +98,9 @@ Why not a WYSIWYG editor? A few reasons:
 
 I use lots of software on a daily basis that tries to be everything to everyone and as a result, cannot be customized for individual use cases. This slows you down more than you realize until you've stood back to look at it. Even small annoyances encountered frequently enough add up to significant cognitive load that has no return on investment.
 
-![cantankerous cookie comic](https://img.bityard.net/blog/silicon/cookie.png)
+<figure>
+  <img src="{static}/images/design-silicon-notes/cookie.png">
+</figure>
 
 Prior to my iterations of this tool, all of my notes were kept in a self-hosted instance of [Dokuwiki]. As wiki systems go, it's quite close to the top of the heap for being easy to set up and use. The main things that took me away from it were the lack of native support for Markdown and the editor UI.
 
@@ -180,4 +188,6 @@ To be clear, I'm not out to change anyone's mind about how they develop software
 
 Now before you go, just one last thing...
 
-!["Well hang on, does it have nudes?"](https://img.bityard.net/blog/silicon/newsletter.png)
+<figure>
+  <img src="{static}/images/design-silicon-notes/newsletter.png" title="Well hang on, does it have nudes?">
+</figure>

@@ -14,8 +14,20 @@ body {
     background-color: white;
 }
 
-figure {
+article figure {
     margin-bottom: 1em;
+}
+
+article figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article figure > figcaption {
+    font-style: italic;
+    margin-bottom: 1em;
+    text-align: center;
 }
 
 .logo {
@@ -103,16 +115,4 @@ h1, h2, h3, h4, h5, h6, .entry-title, .navbar-brand {
 
 .footer p {
     margin-bottom: 0px;
-}
-
-figure > figcaption {
-    font-style: italic;
-    margin-bottom: 1em;
-    text-align: center;
-}
-
-.blog-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }

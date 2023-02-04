@@ -2,13 +2,17 @@ Title: Graphite and the Energy Bridge to Nowhere
 Date: 2018-07-06
 Tags: Linux, Home Automation, Docker
 
-<img class="blog-image" src="https://img.bityard.net/blog/energy-bridge/energy_bridge.png">
+<figure>
+  <img src="{static}/images/energy-bridge/energy_bridge.png">
+</figure>
 
 Remember the good old days when neighbors knew each other, cars had chrome bumpers, and nobody had any idea how much electricity they were using until a bill came in the mail? Well, a few years back, [my local power company](https://www.dteenergy.com) started offering [a mobile app](https://www.newlook.dteenergy.com/wps/wcm/connect/dte-web/insight/insight-app/) that customers could use to track their energy usage. This was made possible by the introduction of smart meters which transmit (by radio) each customer's electricity usage to the power company at a rate of once per hour or so. With this app, it is possible to see your actual real-time usage if you also install this little device they call an "energy bridge" in your home[^1].
 
 In a nutshell, the energy bridge is just a little square box with a power connector and Ethernet jack. It contains a [Zigbee](https://en.wikipedia.org/wiki/Zigbee) radio that speaks softly to the smart meter to get the current energy usage. The bridge device then carefully packages the usage information and sends it up to The Cloud where the mobile app on your phone can lovingly harvest the data and knead it into beautiful graphs and all of that crap.
 
-<img class="blog-image" src="https://img.bityard.net/blog/energy-bridge/insight.png">
+<figure>
+  <img src="{static}/images/energy-bridge/insight.png">
+</figure>
 
 While using the device, I gained a lot of insight (zing!) as to where my energy usage was. For example, I now know that my house's electricity usage is at least 4 kW when the air conditioner is running. The next biggest energy-hungry device is the dishwasher which uses a little over 2 kW when it's running[^2]. The house's idle power draw tends to be between 300 and 500 watts so clearly I have some sleuthing to do.
 
@@ -68,9 +72,11 @@ docker run \
 
 If you're not aware, the -v argument mounts a local file (or directory) on the host system inside the filesystem of the container. The `-p` argument to docker maps your host system ports to the container ports. So this is just telling docker to hook up port 80 on `localhost` to port 80 inside the container. Port 80 is HTTP web interface to Graphite and port 2003 is where we'll be sending our data. If you take a moment to open up your web browser to http://localhost/, you should see this:
 
-<a href="https://img.bityard.net/blog/energy-bridge/graphite_fresh.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/energy-bridge/graphite_fresh_640.png">
-</a>
+<figure>
+  <a href="{static}/images/energy-bridge/graphite_fresh.png">
+    <img src="{static}/images/energy-bridge/graphite_fresh_640.png">
+  </a>
+</figure>
 
 It's always disheartening to not have any data, so let's enhearten ourselves up a little bit. One way that we can get data into Graphite is to just blast it into a TCP socket on port 2003 in the following format:
 
@@ -125,15 +131,19 @@ You'll notice that `$interval` is 2 seconds, not 3. Err... whatnow? Well, Graphi
 
 Now if we let that run for a few minutes, we can then go back to our browser window and reload graphite. There's a new folder underneath the "Metrics" tree called "house". Expand that, and then "power, and then we're finally at our metric called "current_usage." If we click on that, we are rewarded for all of our efforts with... a thin blue line!
 
-<a href="https://img.bityard.net/blog/energy-bridge/thin_blue_line.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/energy-bridge/thin_blue_line_640.png">
-</a>
+<figure>
+  <a href="{static}/images/energy-bridge/thin_blue_line.png">
+    <img src="{static}/images/energy-bridge/thin_blue_line_640.png">
+  </a>
+</figure>
 
 By default Graphite is showing us a graph of the last 24 hours, when we've only been jamming stats into it for a few minutes. In order to see anything interesting, we have to manually select our time period by clicking on the clock icon and selecting a more appropriate time range. Let's say 15 minutes. With that done, we have a much cooler graph. It's quite obvious when exactly my AC kicked on:
 
-<a href="https://img.bityard.net/blog/energy-bridge/ten_minutes.png">
-  <img class="blog-image" src="https://img.bityard.net/blog/energy-bridge/ten_minutes_640.png">
-</a>
+<figure>
+  <a href="{static}/images/energy-bridge/ten_minutes.png">
+    <img src="{static}/images/energy-bridge/ten_minutes_640.png">
+  </a>
+</figure>
 
 There are a whole bunch of ways we can customize this graph, just start clicking around to see some of them. Additionally, Graphite has an API that allows you to fetch any graph in a variety of formats and embed it elsewhere. A widget on your phone. A daily email to yourself. Or you could even display it on a digital dashboard in your kitchen to remind your family how much money is being wasted when lights and appliances are absent-mindedly left on, to pick a totally random and completely fictional example, I assure you, if you are reading this, dear.
 

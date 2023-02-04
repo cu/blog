@@ -2,7 +2,9 @@ Title: Raspberry Pi Serial Console in Linux
 Date: 2012-06-23 18:05
 Tags: Linux, Raspberry Pi
 
-![](https://img.bityard.net/blog/rpi_serial_main.JPG)
+<figure>
+  <img src="{static}/images/raspberry-pi-serial-console-in-linux/rpi_serial_main.JPG">
+</figure>
 
 My [Raspberry Pi](http://www.raspberrypi.org/) arrived in the mail earlier this week. However, work, family, and other commitments meant that tinkering with it had to wait until the weekend. Until today, all that I managed to accomplish was to download a Debian-based OS image, flash it to an SD card, hook the board up to my TV, and squeal with joy as it booted.
 
@@ -15,7 +17,9 @@ SSH would work just fine in theory, but there are two major drawbacks:
 
 So that leaves us with the serial console. The Pi has two rows of headers for general-purpose IO (GPIO). Three of these pins double as a serial port: ground (GND), receive (RX), and transmit (TX). The protocol is the same one spoken by standard 9-pin RS-232 ports on PCs, but **you cannot connect them directly to a PC's serial port** because the voltage levels are different. You'll basically fry your shiny new uber-cheap Linux board. And it wouldn't even make a very serviceable doorstop.
 
-![](https://img.bityard.net/blog/rpi_serial_cable.JPG)
+<figure>
+  <img src="{static}/images/raspberry-pi-serial-console-in-linux/rpi_serial_cable.JPG">
+</figure>
 
 You need a special cable with a bit of circuitry in it to do the level conversion. I happen to have one that I bought off eBay for a couple bucks to do wifi router hacking. It's just a cell phone data cable which I spliced a CD-ROM audio cable connector onto. Finding the right cable can be tricky since these aren't as common anymore. Just make sure you get one that converts to 3.3V, not 5V. The [OpenWRT wiki](http://wiki.openwrt.org/doc/hardware/port.serial) has some suggestions. If you don't want to hunt around, just buy [this one from Adafruit](https://www.adafruit.com/products/70). Either way, you'll probably have to do some wire-splicing since there is no standard connector or pin arrangement for this.
 
@@ -44,7 +48,9 @@ I previously used minicom to talk to serial ports, but recently found out that G
 
 If all goes well, you'll see a flurry of kernel messages scroll by, followed by a login prompt. Success!
 
-![](https://img.bityard.net/blog/rpi_serial_console.png)
+<figure>
+  <img src="{static}/images/raspberry-pi-serial-console-in-linux/rpi_serial_console.png">
+</figure>
 
 ## F.A.Q.
 
