@@ -1,5 +1,5 @@
 PY?=
-PELICAN?=pelican
+PELICAN?=.venv/bin/pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -75,5 +75,18 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+# Extra custom targets
 
-.PHONY: html help clean regenerate serve serve-global devserver publish github
+venv:
+	python -m venv .venv
+	.venv/bin/pip install --upgrade pip
+	.venv/bin/pip install wheel
+	.venv/bin/pip install -r requirements.txt
+
+dockerbuild:
+	docker run -ti --rm -v $PWD:/site -w /site python:3 bash -c 'pip install -r requirements.txt && make html'
+
+reposize:
+	du -ch --exclude=.git --exclude=output --exclude=__pycache__ --exclude=.venv
+
+.PHONY: html help clean regenerate serve serve-global devserver publish github venv dockerbuild reposize
