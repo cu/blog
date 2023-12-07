@@ -115,7 +115,7 @@ A cert has many bits of information, but these are the most important ones:
 
 * **Issuer**: Who issued (signed) the certificate.
 * **Subject**: What the certificate is for. If the Subject and Issuer are exactly the same, that is a self-signed cert and possibly a root cert.
-  * Side-note: The subject contains a CN (CommonName) attribute. Once upon a time, this was used to specify the domain that the certificate was created for. In modern times, the CN attribute is largely ignored by TLS clients, which only look at the Subject Alternative Name (SAN) if it exists. See below. (But note that some "legacy" software may still try to validate the CN.)
+    * Side-note: The subject contains a CN (CommonName) attribute. Once upon a time, this was used to specify the domain that the certificate was created for. In modern times, the CN attribute is largely ignored by TLS clients, which only look at the Subject Alternative Name (SAN) if it exists. See below. (But note that some "legacy" software may still try to validate the CN.)
 * **Validity**: When the certificate is valid.
 * **X509 Extensions**:
     * **Subject Alternative Name** (a.k.a. SAN): In an end-entity certificate for HTTPS, this contains one or more DNS names and is what links the site security to the certificate.  This can be an FQDN or a wildcard (e.g. `*.example.com`). It's important to know that wildcards do not include subdomains, so `*.example.com` will not work for `foo.bar.example.com`.
