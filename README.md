@@ -4,15 +4,14 @@
 
 # Development/Preview Environment
 
-The `Makefile` has some custom targets/paths in it.
-
-Set up the virtual environment:
+The `Makefile` has a target to create a virtual environment in the current
+directory. To set up the virtual environment:
 
 ```
 make venv
 ```
 
-Run the Pelican development server:
+And to run the Pelican development server:
 
 ```
 . .venv/bin/activate
@@ -29,6 +28,13 @@ Get the size of the repo (minus git metadata, output dir, etc)
 
 ```
 make reposize
+```
+
+Alternately, you can install Pelican via [pipx] and still make use of the
+Makefile targets:
+
+```
+pipx install pelican[markdown]
 ```
 
 # Images
@@ -63,7 +69,7 @@ If Pelican had a way to write Jinja2 macros in the markdown content, this would 
 
 ## The HTML way
 
-This is what we're left with. Carving out or ideas into stone tablets with a hammer and chisel. These are all of the permutations that I use:
+This is what we're left with. Carving out our ideas into stone tablets with a hammer and chisel. These are all of the permutations that I use:
 
 A regular image:
 
