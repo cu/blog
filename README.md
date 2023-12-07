@@ -116,4 +116,3 @@ An image as a link with a caption:
   <figcaption>This is a caption</figcaption>
 </figure>
 ```
-
