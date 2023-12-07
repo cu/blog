@@ -1,5 +1,10 @@
 name: deploy to CF pages
-on: [push]
+on:
+  push:
+    paths-ignore:
+      - .gitignore
+      - Makefile
+      - README.md
 jobs:
   deploy:
     name: generate HTML
