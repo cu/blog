@@ -11,7 +11,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
       - name: install pelican
-        run: pipx install --verbose 'pelican[markdown]==4.7.2'
+        run: pipx install --verbose $(head -1 requirements.txt)
       - name: generate
         run: make html
       - name: publish
