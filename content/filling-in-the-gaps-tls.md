@@ -118,7 +118,7 @@ A cert has many bits of information, but these are the most important ones:
     * Side-note: The subject contains a CN (CommonName) attribute. Once upon a time, this was used to specify the domain that the certificate was created for. In modern times, the CN attribute is largely ignored by TLS clients, which only look at the Subject Alternative Name (SAN) if it exists. See below. (But note that some "legacy" software may still try to validate the CN.)
 * **Validity**: When the certificate is valid.
 * **X509 Extensions**:
-    * **Subject Alternative Name** (a.k.a. SAN): In an end-entity certificate for HTTPS, this contains one or more DNS names and is what links the site security to the certificate.  This can be an FQDN or a wildcard (e.g. `*.example.com`). It's important to know that wildcards do not include subdomains, so `*.example.com` will not work for `foo.bar.example.com`.
+    * **Subject Alternative Name** (a.k.a. SAN): In a leaf cert, this contains one or more DNS names and is what links the site security to the certificate.  This can be an FQDN or a wildcard (e.g. `*.example.com`). It's important to know that wildcards do not include subdomains, so `*.example.com` will not work for `foo.bar.example.com`.
     * **Key Usage**: Root and intermediate certs will say "Certificate Sign", leaf certs will say, "Digital Signature"
     * **Basic constraints**: Root and intermediate certs will say "CA: True"
     * **Extended Key Usage**: Leaf certs will say "TLS Web Server Authentication"
