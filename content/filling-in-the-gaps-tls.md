@@ -305,3 +305,7 @@ If you're new to managing certificates this might seem like quite a lot of groun
 * Certs, HTF Do They Even Work?
 * _Encryption Intensifies_
 * If You Liked it Then You Should Have Put a Cert on It
+
+# Addendum
+
+Over on the [Lobste.rs thread](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls), mcpherrinm provided [some excellent additional tips and clarifications](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls#c_x3prdc) on cert formats/extensions.
