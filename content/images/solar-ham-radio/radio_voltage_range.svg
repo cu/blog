@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="radio voltage range.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="22.627417"
+     inkscape:cx="54.712387"
+     inkscape:cy="40.062018"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="4.133162"
+       height="2.2694423"
+       x="11.705886"
+       y="10.025" />
+    <rect
+       style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-5"
+       width="5.4314528"
+       height="2.2694423"
+       x="6.2642579"
+       y="10.016556" />
+    <rect
+       style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-5-5"
+       width="5.4310002"
+       height="2.2694423"
+       x="15.847852"
+       y="10.015553" />
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.701729,9.358392 c 0,2.91987 0,2.91987 0,2.91987"
+       id="path1" />
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.841857,9.3474813 c 0,2.9210207 0,2.9210207 0,2.9210207"
+       id="path1-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="11.783644"
+       y="9.1937485"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1"
+         x="11.783644"
+         y="9.1937485">11.73</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="15.870012"
+       y="9.1935482"
+       id="text1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1"
+         x="15.870012"
+         y="9.1935482">15.87</tspan></text>
+    <path
+       style="fill:#00ccff;fill-opacity:1;stroke:#000000;stroke-width:0.0499056;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6.2645472,10.001935 H 21.280034"
+       id="path2" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0499056;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6.264217,12.306436 H 21.279704"
+       id="path2-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="8.934123"
+       y="11.342461"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05"
+         x="8.934123"
+         y="11.342461">Danger!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="18.51749"
+       y="11.342461"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.05"
+         x="18.51749"
+         y="11.342461">Danger!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="13.699442"
+       y="11.420424"
+       id="text2-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05"
+         x="13.699442"
+         y="11.420424">OK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.705556px;font-family:'Input Mono';-inkscape-font-specification:'Input Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#00aad4;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="13.807044"
+       y="7.9746542"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#00aad4;stroke-width:0.05"
+         x="13.807044"
+         y="7.9746542">Acceptable Radio Voltage Range</tspan></text>
+  </g>
+</svg>
