@@ -1,5 +1,5 @@
 PY?=
-PELICAN?=pelican
+PELICAN?="uv run pelican"
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -76,15 +76,6 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 # Extra custom targets
-
-venv:
-	python -m venv .venv
-	.venv/bin/pip install --upgrade pip
-	.venv/bin/pip install wheel
-	.venv/bin/pip install -r requirements.txt
-
-dockerbuild:
-	docker run -ti --rm -v $PWD:/site -w /site python:3 bash -c 'pip install -r requirements.txt && make html'
 
 reposize:
 	du -ch --exclude=.git --exclude=output --exclude=__pycache__ --exclude=.venv

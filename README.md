@@ -4,37 +4,28 @@
 
 # Development/Preview Environment
 
-The `Makefile` has a target to create a virtual environment in the current
-directory. To set up the virtual environment:
+This repo uses [uv](https://docs.astral.sh/). If it is not installed, make it
+so.
+
+The `Makefile` is set up to run Pelican within a local virtualenv. It has
+various interesting targets, some of which are listed below.
+
+To run the Pelican development server:
 
 ```
-make venv
-```
-
-And to run the Pelican development server:
-
-```
-. .venv/bin/activate
 make devserver
 ```
 
-Use Docker to build the static site:
+Publish the site (output HTML to the `content` directory).
 
 ```
-make dockerbuild
+make publish
 ```
 
 Get the size of the repo (minus git metadata, output dir, etc)
 
 ```
 make reposize
-```
-
-Alternately, you can install Pelican via [pipx] and still make use of the
-Makefile targets:
-
-```
-pipx install pelican[markdown]
 ```
 
 # Images
