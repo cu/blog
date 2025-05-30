@@ -24,5 +24,16 @@
       {{ article.content }}
     </div><!-- /.entry-content -->
   </article>
+
+  <footer>
+    <hr>
+    <p>This site is maintained in <a href="https://github.com/cu/blog">a git
+    repo</a> and the source for this entry can be found
+    <a href="https://github.com/cu/blog/blob/master/content/{{ article.relative_source_path }}">
+    here</a>. If you find a mistake, please feel free to open
+    <a href="https://github.com/cu/blog/issues">an issue</a> or
+    <a href="https://github.com/cu/blog/pulls">a pull request</a>.
+    </p>
+  </footer>
 </section>
 {% endblock %}
