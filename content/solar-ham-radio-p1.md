@@ -45,13 +45,15 @@ My goal is to have enough power to run both the radio and a laptop while keeping
 
 Before we go any further, you should be aware there there is math in these here parts. But don't worry, it's all easy multiplication and division. Now, to grossly oversimplify some basic concepts and taunt all the electrical engineers in the room with subpar analogies:
 
-* **Volts** represents the electrical _potential_ of a battery. Analogous (for our purposes) to water pressure, or holding a book off the ground. If a battery is charged, then voltage is always present on its terminals whether or not it is hooked up to something. Batteries, solar panels, and the wall plugs in your house _provide_ voltage.
+* **Volts** represents the electrical _potential_ of a battery. Analogous (for our purposes) to water pressure, or holding a book off the ground. If a battery is charged, then voltage is always present on its terminals whether or not it is hooked up to anything. Batteries, solar panels, and the wall plugs in your house _provide_ voltage.
 * **Amps** (or "Amperes" to be precise) represent the amount of _current_ flowing through a circuit. Analogous to water flow, or the energy of the book while it is falling. Current coming out of a battery means the battery is being discharged. Current going into a battery charges it. Current is _drawn_ by a load and currently only flows when there is a closed circuit. No current flows to or from a battery if it is not connected to anything. But if you connect a light or motor, then current flows and they turn on.
 * **Watts** is a measurement of power, or the doing of work, at _a particular point in time_. If you know the voltage of something, and the current flowing through it, then you just multiply voltage and current, and you get watts:
 
 ```
 watts = voltage * current
 ```
+
+I want to emphasize that all of the above is true for DC (direct current) circuits. AC (alternating current) is _way_ more complicated. By a lot. However, we're not dealing with any AC here so I'll shut up about it now'.
 
 Now, let's see roughly how much power I'll need.
 
