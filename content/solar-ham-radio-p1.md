@@ -18,16 +18,16 @@ There are _many_ things you can do in ham radio and one of the things I like doi
 * Alice: Okay, I received your information as well. Have a nice day.
 * Bob: You have a good one too.
 
-Each side logs the contact in their computer and then moves on to someone else they haven't talked to yet. At the end of the contest, you submit your logs to whatever organization is running the contest. The organizers process everyone's logs and rank them according to a scoring system. Ham radio contests don't have prizes other than (barely any) bragging rights and maybe a few warm fuzzies. Sometimes you might receive a paper or PDF certificate that you can frame and hang on the wall. But overall, ranking high in a ham radio contest won't land you international recognition, fancy yachts, or a co-starring role in an upcoming Nicholas Cage movie, if you can believe it.
+Each side logs the contact in their computer and then moves on to someone else they haven't talked to yet. At the end of the contest, you submit your logs to whatever organization is running the contest. The organizers process everyone's logs and rank them according to a scoring system. Ham radio contests don't have prizes other than (barely any) bragging rights and maybe a few warm fuzzies. Sometimes you might receive a paper or PDF certificate that you can frame and hang on the wall. But overall, contrary to popular belief, ranking high in a ham radio contest is unlikely to get you international recognition, fancy yachts, or a co-starring role in an upcoming Nicholas Cage movie.
 
 There are various contests held throughout the year, but the biggest one by far is [Field Day](https://www.arrl.org/field-day) in June. Part of the point of Field Day is to set up your station in some temporary location (quite possibly an actual field) and run it from something other than the national power grid. (Gas generator, solar, wind, etc.) I also like to participate in other contests when I find the time, so this station setup is designed around that. But Field Day is definitely my favorite.
 
 (Important digression: some hams take offense at calling Field Day a contest. It is ostensibly first and foremost a disaster preparedness exercise and public outreach event. Which is true enough. However, the goal is to make contacts on the radio, and there are rules, and they keep score, and rank stations at the end, soooo...)
 
-One of the initial hurdles I ran into early in my research was that there was not a lot of prior art on building exactly the kind of station I wanted. Most hams that get involved with solar and/or portable stations do one of these things:
+One of the initial hurdles I ran into early in my research was that there was not a lot of prior art on building exactly the kind of station I wanted. Most hams that get involved with solar and/or portable stations do one of these two things:
 
-* Charge up a small battery before heading out, and then take the battery, a low-power radio, antenna, and other misc items out to a park somewhere. Typically the whole setup fits into a backpack because there may be walking or hiking involved. These operators also tend to be using CW (Morse code) which goes very far on very little power.
-* Install permanent solar panels and batteries and run all of their radios (and maybe some other stuff) and off that.
+* Charge up a small battery before heading out, and then take the battery, a low-power radio, antenna, etc out to a park somewhere. Sometimes the whole setup fits into a backpack because there may be walking or hiking involved. These operators tend to be using CW (Morse code) which goes very far on very little power. They usually only operate for a few hours rather than a whole weekend.
+* Install permanent solar panels and batteries and run all of their radios (and maybe some other stuff) and off that in some fixed location in the basement or some corner of their house.
 
 These are not what I'm after, so I didn't have many examples to follow. In my case, I communicate on the radio with my voice rather than morse code so a low-power station (producing under 10 watts of RF energy) isn't really going to cut it. Especially in a contest situation where the bands might be crowded and everyone is struggling to be heard above everyone else. I want to use my Icom IC-718 which has a more typical power output of 100 watts. This means I need a battery big enough to power that, plus a laptop and a few accessories. The battery will be charged via solar panels to (ideally) keep it topped up during the day.
 
@@ -53,7 +53,7 @@ Before we go any further, you should be aware there there is math in these here 
 watts = voltage * current
 ```
 
-I want to emphasize that all of the above is true for DC (direct current) circuits. AC (alternating current) is _way_ more complicated. By a lot. However, we're not dealing with any AC here so I'll shut up about it now'.
+I want to emphasize that all of the above is true for DC (direct current) circuits. AC (alternating current) is _way_ more complicated. By a lot. However, we're not dealing with any AC here so I'll shut up about it now.
 
 Now, let's see roughly how much power I'll need.
 
