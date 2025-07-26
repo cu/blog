@@ -1,6 +1,6 @@
 Title: A Pretty Okay Solar Ham Station, Part 1
 Date: 2025-05-28
-Tags: Radio
+Tags: Radio, Solar
 
 <figure>
   <a href="{static}/images/solar-ham-radio/full_setup_export.svg">
@@ -140,3 +140,5 @@ Finally, we also have to pay some attention to the maximum charge and discharge 
 **Battery Summary:** To have 12+ hours of operation, I need roughly 600 watt-hours of capacity, or 50 amp-hours on a 12.8 volt battery. And the maximum charge/discharge current of the battery should be at least 25 amps, but 35 or more would be ideal.
 
 The next post in this series will be about choosing cromulent solar panels for this setup. I'll update this post to put a link to it when it's released but if you can subscribe to my RSS feed if this kind of thing is your jam.
+
+In [Part 2]({filename}/solar-ham-radio-p2-panels.md), we get into selecting the solar panels for the station.
