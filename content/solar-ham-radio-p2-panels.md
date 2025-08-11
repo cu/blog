@@ -1,16 +1,14 @@
 Title: A Pretty Okay Solar Ham Station, Part 2: Panels
 Tags: Radio, Solar
 
-<figure>                                                                         
-  <a title="Partonez, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Field_of_Solar_Panels_near_Ogwell.jpg">                                           
-    <img alt="A field of solar panels" src="{static}/images/solar-ham-radio/panel-field.jpg">                                    
-  </a>                                                                           
-  <figcaption>Field of dreams?</figcaption>                                     
-</figure> 
+<figure>
+  <a title="Partonez, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Field_of_Solar_Panels_near_Ogwell.jpg">
+    <img alt="A field of solar panels" src="{static}/images/solar-ham-radio/panel-field.jpg">
+  </a>
+  <figcaption>Field of dreams?</figcaption>
+</figure>
 
 Back in [Part 1]({filename}/solar-ham-radio-p1.md), I <s>emptied my soul</s> laid out the rough qualifications for a somewhat minimalist solar-powered ham radio station. Today, I'd like to walk you through my process for selecting the solar panels for this lash-up of geekery.
-
-
 
 I thought picking out solar panels for this project would be easy peasy lemon squeezy. Instead, it turned out to be difficult difficult lemon difficult. There were several factors involved:
 
@@ -33,7 +31,6 @@ The more I looked at the foldable solar panels, the less I liked them in general
 * Many claim to be waterproof, but clearly are not. They are made of fabric or canvas which, yes, won't _immediately_ deteriorate on contact with water, but _will_ hold water in concealed areas for longer than you'd like. Possibly getting moldy in the process. Or breaking down with age and use. I want panels that can survive everything from night-time dew to actual, literal downpours. I'm trying to play radio here and don't want to be interrupted to un-deploy the panels at the slightest whiff of rain.
 * Most have really flimsy or ill-engineered wires connecting the panels together. In other words, they have a limited number of fold/unfold cycles. Among other quality concerns.
 * The solar cells are _flexible_, and [flexible panels do not last](https://www.mobile-solarpower.com/solar-panels.html).
-	* {TODO: links to flexible panels dying, maybe links to pictures}
 * The kickstands for theses seem to be universally _terrible_.
 * They cost quite a bit more than rigid panels.
 
