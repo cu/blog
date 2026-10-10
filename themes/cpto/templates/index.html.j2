@@ -10,7 +10,9 @@
           <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
         </h2>
         {% include "article_meta.html.j2" %}
-        {{ article.summary }}
+        <article>
+          {{ article.summary }}
+        </article>
         <a href="{{ SITEURL }}/{{ article.url }}">Read more...</a>
       </div>
     {% endfor %}
