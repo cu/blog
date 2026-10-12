@@ -1,0 +1,218 @@
+                         BBS's That Actually Work!
+                       version 3.0      Kevin Ardoin
+                             AUGUST 1994                             sys.
+                                                          Mins.    run
+Number(800)        NODES   Number        Settings  type   allowed  on
+-----------------------------------------------------------------------------
+BARK}   same bbs   16      333-0052      N-8-1     newsp. 20       PCBrd.    
+BARK}  two numbers 16      856-8647      N-8-1     newsp. 20       Novalink
+Center Link !NEW!  1 a. l. 677-4184      N-8-1     Env.   60       TBBS
+New Visions !NEW!  24      430-6398      N-8-1     Pay Ent120      Major BBS
+(FAA)  FSDO        1       645-3736      N-8-1     avia.  45       Quick BBS
+Gulfline           9       235-4662      N-8-1     info.  20       RBBS-PC
+Grace Thoughts     1       594-7054      N-8-1     relig. ?        WC
+Software Valley    2       763-8825      N-8-1     info.  10(S/U)  Pcb
+CAM (AIDS Support) ?       542-5921      N-8-1     AIDS S.?        ?
+ME/U               7       688-6463      N-8-1     edu.   15       WC
+AT&T Global  !NEW! 2       692-8872      N-8-1     T. S.  190      Major BBS
+RDL Elec.          1       227-0391      N-8-1     Tech S 60       WC
+OERI               4       222-4922      N-8-1     Edu.   30       Major BBS
+IBM C set ++ !NEW! ?       874-2881      N-8-1     T. S.  120      Major-Net
+ITE                2       982-4683      N-8-1     trans. 30       WC
+RIBBS              26      262-9541      N-8-1     postal 90       WC
+NBCI               2 a. l. 344-6224      N-8-1     edu.   30-45    Major BBS
+FTA Online   !NEW! ?       231-2061      N-8-1     trans. 30       TBBS 
+NASA (SBIR)        a. l. 8 547-1811      N-8-1     gov.   60       PCBrd.
+FRMS         !NEW! 1       348-1239      N-8-1     Env.   60       RBBS-PC
+Fedix & Molis      ?       783-3349      N-8-1     info   alot     fedixnet
+Multi-Tech         5       392-2432      N-8-1     Tech S 25       WC
+Nebraska Online    ?       392-7932      VT-100    info   60       ?
+Grateful Medical   ?       525-5756      N-8-1     info   no limit TCOMM
+ETA                5       828-5912      N-8-1     info.  60       PCBrd.
+Serve Line         ?       487-7605      N-8-1     edu.   45(S/U)  ?
+NEBBS (NEW)        ?       447-6377      N-8-1     edu.   no limit ?
+Hayes Online       ?       874-2937      N-8-1     T/S    30       Bread B.
+Dial Jan           ?       342-5526      N-8-1     info.  40       Pcb
+Pennywise          ?       752-3012      N-8-1     shop   no limit ?
+-----------------------------------------------------------------------------
+                Detailed Description
+GULFLINE:  Because of abuse of file privileges, this BBS has closed off 
+access to its sec. level 5 users.  This is a bummer, but it still has chat!
+along with great message base, including online chatting (Join FLCST conf.)  
+Takes a few days to be verified, but well worth the wait.   Intended for 
+enviornmental discussion, but pretty well-rounded, anyway.   
+1-800-235-4662, N-8-1 ANSI  .QWK mail door:  no        8.0
+
+Center Link:  Awesome little BBS with lots of useful files and interesting
+enviornmental files.  Has e-mail and a general message base.
+1-800-677-4184, N-8-1 ANSI  .QWK mail door:  no        9.5
+
+ETA:   Due to abuse of the file privileges, this BBS has closed its only
+real asset, the Upload file base and the Utilities file base.  The message 
+base sucks, too.
+1-800-828-5912, N-8-1 ANSI    .QWK mail door:  yes     5.0
+
+BARK BBS:  very interesting and ** colorful ** message base.  Very
+controversial messages! The software needs alot of work.  
+They're running on Macincrap, so its a little slow.  No .QWK door, so that 
+stinks.  Had chat at one point during WS2, and its possible that chat will 
+come online once again.  Some sysop utilities and lots of poetry/lyrics by 
+teenagers who write for BARK.  Aimed at young writers/musicians/artists/etc.  
+1-800-333-0052, N-8-1 ANSI       .QWK mail door:  No  8.5
+1-800-856-8647, N-8-1 ANSI       .QWK mail door:  No  8.5
+
+FSDO:  Very good file section, good message base, and supports RIP graphics.
+Now has FIDONET!!!  busy alot, so you have to be persistent to get through.  
+Aimed at aviators, but general public has access, too.  
+1-800-645-3736, N-8-1 ANSI        .QWK mail door:  yes  9.0
+
+Grace Thoughts:  I've heard this is a really good BBS, but I haven't been
+able to get through, its always BUSY!  Supposed to have an excellent file
+base, and lots of thought-provoking messages about religion.
+1-800-594-7054, N-8-1 ANSI         .QWK mail door:  yes  rating: n/a
+
+CAM (AIDS Support BBS):  Haven't gotten through to this one yet, either.
+Good message base, and really good file base from what I hear through the
+grapevine.  Most of the files are AIDS related, but has alot of other
+computer-related utilities, too.
+1-800-542-5921, N-8-1 ANSI        .QWK mail door:  yes  rating: n/a
+
+New Visions:   A great little BBS, gives two hours free and complete access
+after being auto-validated by phone.  Offers telnet, internet, online chat,
+relay chat, online games, e-mail, forums, dial-out, and many other features
+1-800-430-6398, N-8-1 ANSI        .QWK mail door:  yes  rating: 8.5
+
+ME/U (Mind-Extension University):  great board.   Spirited discussions on a
+wide variety of subjects.  Has file base too.  Good place to find info on
+computers.  Good board.
+1-800-688-6463, N-8-1 ANSI        .QWK mail door:  yes   9.0
+
+RDL Electronics:  Great little board for technical support on RDL products.
+Has some cool conferences for other non-related musical subjects.  File base
+has some pretty neat files.  Only complaint:  only 1 node!
+1-800-227-0391, N-8-1 ANSI        .QWK mail door:  yes  8.0
+
+OERI:  educational board directed at educators.  Has good file base,
+but no messages except for verified educators.
+1-800-222-4922, N-8-1 ANSI        .QWK Mail Door:  no  8.0
+
+ITE:  board for transportation people.  Good file base. Okay, but not the 
+best.
+1-800-982-4683, N-8-1 ANSI        .QWK mail door:  yes  7.0
+
+RIBBS:  BBS for people interested in the postal service's offerings.  Okay
+file base, and decent message base.  26 nodes!!! (Shades of SBA)
+1-800-262-9541, N-8-1 ANSI        .QWK mail door:  yes  7.5
+
+NBCI:  Great board.  Message base supports attachments.  Okay file base.  
+Offers online chat, but from what I can tell, only has 2 stinking nodes at
+this point.  
+1-800-344-6224, N-8-1 ANSI        .QWK mail door:  Yes  8.0
+
+FTA Online:  good board aimed at Transportation safety professionals.
+has e-mail, some cool utility files, and a general message base.
+1-800-231-2061, N-8-1 ANSI        .QWK mail door:  No   7.0 
+
+NASA:  BBS for programmers to exchange ideas for NASA's SBIR program.  Small
+message base, but utilities files are pretty good.  
+1-800-547-1811, N-8-1 ANSI         .QWK mail door:  Yes 6.5
+
+Fedix & Molis:  government information system provided for the general public.
+If information is what you want, this is for you.  800 # is only online from
+Monday to Friday, 7 AM to 9 PM, Eastern Standard Time.
+1-800-783-3349, N-8-1 ANSI         .QWK mail door: No  7.5
+
+IBM C Set ++:  BBS aimed at people interested in IBM's C set ++ program.
+okay file base,  large files!  okay message base.
+1-800-874-2881, N-8-1 ANSI         .QWK mail door: No  7.0
+
+Multi-Tech:  BBS with potential.  Small file base, but could increase with
+time.  Okay BBS, but needs some work.
+1-800-392-2432, N-8-1 ANSI         .QWK mail door: no  6.5
+
+Nebraska Online:  Friendly users and good file base make this an okay BBS.
+They really need new BBS software, though.  Oh well, its still not bad.
+1-800-392-7932, N-8-1 VT100       .QWK mail door:  no   6.5
+
+Grateful Medical BBS:  Good file base, and okay message base.  Lots of
+options and info here.  Unlimited log-in time.  Tons of users.  Supports
+attachments in messages.
+1-800-525-5756, N-8-1 ANSI        .QWK mail door:  no   8.0
+
+AT&T Global:  This board was really great until the sysops restricted chat.
+Other than that, its ok for e-mail and some files.
+1-800-692-8872, N-8-1 ANSI        .QWK mail door:  yes  7.0  
+
+FRMS (Florida Recycling:  Has good upload section, and a decent message base
+only 1 nde, though!
+1-800-348-1239, N-8-1 ANSI        .QWK mail door:  kind of.  7.0
+
+Serve Line:  educational sign up board.  Could be good, if youre willing to
+sign up, but not that great till then.  Ho, hum.
+1-800-487-7605, N-8-1 ANSI        .QWK mail door: no  6.0
+
+NEBBS:  educational board on Supercomputers.  Interesting.  Okay file base.
+Message base contains only related topics.  Lets hope this one lasts.
+1-800-447-6377, N-8-1 ANSI        .QWK mail door: No  7.5
+
+Hayes Online:  Tech Support for Hayes modem owners.  Has numerous BBS lists,
+okay file base.  Overall, not that bad a board.  
+1-800-874-2937, N-8-1 ANSI         .QWK mail door: No  7.5
+
+Dial Jan:  disability board for those interested in disabled subjects.  Not
+bad.  Has okay message base.  Good place to plug your BBS list!
+1-800-342-5526, N-8-1 ANSI          .QWK mail door: yes  7.5
+
+Pennywise Shopping Online:  Business supply store.  Good for business owners.
+1-800-752-3012, N-8-1 ANSI          .QWK mail door: no  6.5
+----------------------------------------------------------------------------
+
+                Well, that's it for this third version of "BBS's That
+                Actually Work!"  Hopefully, next time. I can get more
+                info on these boards, and get through to some of the more
+                busy boards.  BBS's have come a long way since the SBA days.
+                So I'll have to update it monthly, I guess.  Anyway, I'll
+                have version 4 soon!
+
+I can be contacted on the following BBS's:
+        BARK, RDL, Gulfline, ETA, NBCI, RIBBS, FSDO, ITE, 
+        Grateful Medical, and NASA, AT&T Global, Center-Link,  
+        New Visions (temporarily), FRMS, IBM C set ++, FTA, and
+        ME/U.
+---------------------------------------------------------------------------
+                       Other ways I can be contacted:
+---------------------------------------------------------------------------
+I can also be contacted at home at (304)-775-2283 on my BBS.
+If you do want to call my BBS, call between 1:00 and 10:00 p.m. (standard
+eastern time) BY VOICE FIRST!  Its not officially my phone line yet, 
+so I might not have the software ready if you do call, and that means you'll 
+get a bunch of garbage and Ill get a new hearing-aid.  So please call by 
+voice first! I have over 8 megs of assorted cool files, a .QWK door, and 2
+online games (soon to be more, lots more!!!).  Just ask for Kevin, tell 
+me who you are and we can hang up, Ill set the software up, and its that 
+simple.  Alllllll calls appreciated!!!!  Remember, call by voice first!!!  As soon as
+I get my own phone line, Ill let any and all users know through Bark BBS.
+Thank you!!! 
+---------------------------------------------------------------------------
+                        Disclaimer
+---------------------------------------------------------------------------
+I am not responsible for a user of this list's actions, words, use, or mis-
+use of any of the systems contained in this document.  Any virus-infected
+files found on these bulletin boards, I can not be held responsible for.
+This list is provided as a free service and therefore I am not responsible
+for the misuse of the above listed BBS's.
+---------------------------------------------------------------------------
+                        Courtesy Note:
+---------------------------------------------------------------------------
+        Several people have said that us BBS list guys are ruining BBS's
+with our irresponsible public announcements of numbers.  Well I am here to
+tell you that if it weren't for us, then the numbers would find their way to
+the public eventually anyway.  But, nevertheless, for the satisfaction of
+the opposition, I will request that you be courteous to the sysop's rules
+and regulations on the above listed BBS's.  I personally do not give a good
+*&^% what you do there, but these other people do.  So, try not to be rude on 
+their systems.
+        And I, Randy, Doug, Jim, and Ray wont be hassled anymore.
+                Enjoy!
+----------------------------------------------------------------------------
+<end>

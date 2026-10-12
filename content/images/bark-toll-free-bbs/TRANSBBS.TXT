@@ -1,0 +1,140 @@
+
+
+*******************************************************************
+   TRANSPORTATION-RELATED ELECTRONIC BULLETIN BOARD SYSTEMS (BBS)
+*******************************************************************
+NOTE: If you do call one of these systems and find out that the
+number has changed, or has been disconnected, PLEASE call the ITE
+BBS back and leave the SYSOP a message so this file can be kept up
+to date.
+
+Also leave a message to report additions and/or errors.
+Thank you....
+
+--> Most of these BBS operate at N-8-1.
+
+*****************************
+ BBS NAME    $$=Fee Charged 
+ BBS NUMBER                
+ VOICE NUMBER (if known)   
+*****************************
+
+ ITE - Institute of Transportation Engineers
+ (800) 982-4683; in Washington, DC: (202) 863-5487
+ (202) 554-8050
+
+ Engineering Bulletin Board Systems EBBS
+ (805) 253-2917
+ (805) 259-6902
+
+ FHWA / Texas DOT, TRANSPORTER - Texas A&M University
+ (409) 845-2326; in Texas (800) 824-7303
+ (409) 845-2914
+
+ FHWA Electronic Bulletin Board System, FEBBS
+ (202) 366-3764
+ (202) 366-9022
+
+ InfoTap, Institute of Transp. Studies, U of California, Berkeley
+ (415) 642-7088
+ (415) 642-1008
+
+ Kentucky DOT
+ (502) 227-9783
+ (502) 564-8900
+
+ Michigan Transportation Technology Transfer (T2) Center
+ (906) 487-2148
+ (906) 487-2102
+
+ NW T2 Center and State Aid Washington State DOT
+ (206) 586-1942
+
+ (206) 753-1065
+
+ Federal Transit Administration-Rural Transportation Assistance 
+Program
+ (202) 628-2537
+ (800) 527-8279
+
+ McLink, McTrans Center, University of Florida
+ (904) 392-3225
+ (904) 392-0378
+
+ University of Kansas Transportation Center (PCTrans)
+ (913) 864-5058
+ (913) 864-5655
+
+ RABIT (Colorado Dept. of Highways)
+ (303) 757-9509
+ (303) 757-9220
+
+ Washington State DOT
+ (206) 586-1942
+ (206) 753-1065
+
+ Highway Engineering Exchange Program
+ (301) 333-3807
+ (301) 333-1693
+
+ Arizona State University T2 Center
+ (602) 965-1391
+ (602) 965-2744
+
+ Reno Traffic BBS
+ (702) 334-2257
+ (702) 334-2254
+
+ CIME - ISE Computers in Mechanical Engineering Information &
+         Software Exchange
+ (608) 233-3378
+ N/A
+
+ Map and Surveying BBS
+ 603-332-9969
+
+ Environmental Protection Agency (EPA)
+ (919) 541-5742
+ (919) 541-5384
+
+ County Engineers of Ohio BBS
+ (614) 481-3194
+ (614) 462-5318
+
+ Federal Aviation Administration BBS
+ (202) 267-5697
+ (202) 267-3332
+
+ Federal Information Exchange (Fedix)
+ (800) 783-3349 OR (301) 258-0953
+ Fed World BBS
+ This is a network BBS.  Call this number and you can literally
+ connect to over A HUNDRED other BBS. Read the file GOVTBBS.TXT,
+ found in the ITE BBS Main F)ile area for a list of the BBS you
+ can access through Fed World.
+ (703) 321-8020
+ (703) 487-4648
+
+ FTA Transit and Security BBS
+ (800) 231-2061
+ (617) 494-2108
+
+ AASHTO BBS ($$)
+ (301) 738-0135
+  
+ Hazmat Info Exchange (FEMA)
+ (708) 972-3275
+
+ OZONE (Ohio DOT)
+ (614) 466-1136
+ 
+ America Society of Mechanical Engineers
+ (608) 233-3378
+
+ ADIC (Anti-Drug Info. Center) ($$)
+ (800) 225-3804
+
+ Professional RBBS
+ (702) 356-1048
+
+

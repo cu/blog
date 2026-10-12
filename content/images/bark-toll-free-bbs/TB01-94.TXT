@@ -1,0 +1,219 @@
+
+Hi All,
+This looks like it's turning out to be a good month for 800 numbers. I
+have 3 new chat boards and one of them with free Internet Access. It has
+full FTP, Telnet and Finger but no Internet E-mail. My list won't be
+avaible by FTP for this month unless somebody wants to put it there for
+me.
+
+TB01-95.TXT has 10 totally new numbers all marked as !NEW! and 38 marked
+as *NEW* that have been around for a few months. You can request my list
+any time by sending Internet E-mail to Doug.Schneider@mgmtsys.com with
+the subject '800 List'. It can also be FTPed from wuarchive.wustl.edu in
+the /pub/MSDOS_UPLOADS/bbslists directory and is posted to the Usenet
+group alt.bbs.lists every two weeks. New versions of my list will be out
+in the first week of each month. Like always you can freely distribute
+my list as TB01-95.TXT but please include this message.
+
+Doug Schneider - Author of "The Best" 800 List
+
+
+TB01-94.TXT                                      Doug.Schneider@mgmtsys.com
+------------------------------------------------------------------------------
+Name                        Number        Highest  Settings   Comments
+                                           Speed
+------------------------------------------------------------------------------
+ACF                   *NEW* 800-627-8886    14400    N-8-1  Human Services
+AERO MODELERS AIRWAY  !NEW! 800-438-7910    14400    N-8-1  Pay / AMA Members
+AERO MODELERS AIRWAY  !NEW! 800-566-5262    14400    N-8-1  Free / AMA Info
+AEROFLIGHT'S AVIATION       800-377-5022    14400    N-8-1  Pay / Aviation
+AIRLINE PILOTS/UNITY  *NEW* 800-538-2747    14400    N-8-1  Aviation/Pilot Only
+ARAC                        800-322-2722     2400    N-8-1  Aviation
+ARI SERVICES                800-553-3244     2400    E-7-1
+AT&T FTS2000                800-525-0216    14400    N-8-1  Medlars?/Unix
+AT&T FTS2000                800-547-8559    14400    N-8-1  Medlars?/Unix
+AT&T GIS CP&S         *NEW* 800-822-4304    14440    N-8-1  Support/Emp. Only
+AT&T GLOBAL INFO            800-832-0627     2400    N-8-1  Support
+AT&T GLOBAL SUPPORT   *NEW* 800-692-8872    14400    N-8-1  Support
+AT&T MAIL                   800-624-5123     2400    N-8-1
+ATOS                        800-446-2777     2400    N-8-1  Aviation
+ATUG                        800-242-0490     9600    N-8-1  KY/Assistive Tech.
+AUTONET                     800-729-1288     9600    N-8-1  Network
+AUTONET                     800-827-3001     1200    N-8-1  Network
+AUTONET                     800-827-8001     9600    N-8-1  Network
+AVADS                       800-368-3321    14400    N-8-1  Dept of Interior
+BANK ASSOCIATION            800-221-5451    14400    N-8-1  # Prompt
+BARK                        800-333-0052    14400    N-8-1  HS Students
+BARK                  *NEW* 800-856-8647    14000    N-8-1  HS Students
+BELL ATLANTIC               800-479-4202     2400    E-7-1  N. WV Only
+BELL ATLANTIC               800-649-9092     2400    E-7-1  S. WV Only
+BEVERAGE                    800-777-0082    14400    N-8-1  Network
+BEVERAGE                    800-777-0262    14400    N-8-1  Network
+BEVERAGE                    800-777-6593    14400    N-8-1  Network
+BIX                         800-225-4129     2400    N-8-1  Pay Service
+BIX                         800-695-4882     2400    N-8-1  Pay Service
+BUDDY                 *NEW* 800-449-2252    14400    N-8-1  Seeing Eye
+BUPERS ACCESS               800-346-0217    14400    N-8-1  Military
+BUPERS ACCESS               800-346-0218    14400    N-8-1  Military
+BUPERS ACCESS               800-346-0227    14400    N-8-1  Military
+BUPERS ACCESS               800-762-8567    14400    N-8-1  Military
+CAM                         800-542-5921    14400    N-8-1  AIDS Support
+CARAC                 *NEW* 800-461-6109     9600    N-8-1  Canadian Aviation
+CATS                        800-662-0662     2400    N-8-1  Unix
+CAVIX                 *NEW* 800-834-8428     2400    N-8-1  CA Only/Educators
+CBS/NEWSNET           *NEW* 800-882-4227     2400    N-8-1  Closed
+CCMA INTERNATIONAL    *NEW* 800-215-7819    14400    N-8-1  Pay/Biz Research
+CDRH'S ELEC. DOCKET         800-252-1366    14400    N-8-1  Health
+CENTER-LINK           *NEW* 800-677-4184    14400    N-8-1  Envir./Reg. Users
+CERFNET                     800-723-7363    14400    N-8-1  Pay / Internet
+CESAR                       800-842-3727     ????    N-8-1  MD Only/Sub. Abuse
+CIRCUIT WRITER              800-235-6671    14400    N-8-1  Pay / Religious
+CITICORP                    800-223-3312     2400    E-7-1  Bank
+COLORADO MEETING PLACE!NEW! 800-779-5907    14400    N-8-1  CO Only/Disabilty
+COM-FEM                     800-582-0694    14400    N-8-1  Pay / Wrestling
+COMPUSERVE                  800-331-7166    14400    E-7-1  Ripoff!!!
+COMPUSERVE                  800-346-3247     2400    E-7-1  Ripoff!!!
+COMPUSERVE                  800-544-3095    14400    E-7-1  Ripoff!!!
+COMPUSERVE                  800-848-4480     2400    E-7-1  Ripoff!!!
+COMPUSTORE/AUTOVANTAGE      800-336-7663     2400    N-8-1  Online Shopping
+CONCENTRIC NETWORK    *NEW* 800-991-4227    14400    N-8-1  Pay / BBS Gateway
+CSO                   *NEW* 800-700-7837    14400    N-8-1  Envir. Regulations
+CTDNET                *NEW* 800-318-5249    14400    N-8-1  Pay/E-mail/Dialouts
+DATA TRANSFORMATION         800-245-3828     2400    N-8-1  Weather/Pilots Only
+DATALYNX                    800-358-0486     2400    N-8-1
+DEC ELE. STORE              800-234-1998     9600    N-8-1  Online Shopping
+DECSERVER                   800-326-5476     9600    N-8-1  Vax Account
+DELPHI                      800-365-4636    14400    N-8-1  Signup / Internet
+DESK TOP IV                 800-538-4669    14400    N-8-1  Military
+DIAL-JAN                    800-342-5526    14400    N-8-1  Disabilities
+DIALCOM                     800-624-2914     1200    E-7-1  Network
+DLA                         800-458-7904     9600    N-8-1  DLA Employees Only
+DWIE                        800-932-7459     2400    N-8-1  Drinking Water
+EASTER SEALS                800-274-9174     9600    N-8-1  CO Only / Disabled
+EASTER SEALS                800-374-4245     9600    N-8-1  CO Only / Disabled
+EASYLINK                    800-325-1436     1200    E-7-1  Network
+EASYLINK                    800-325-4112     1200    E-7-1  Network
+EASYLINK                    800-352-0192    14400    E-7-1  Network
+EDISON                      800-745-3868     2400    N-8-1  MS Only
+EI NEWS               !NEW! 800-727-3618    14400    N-8-1  Chat
+ENGELHARD                   800-545-0086     2400    N-8-1  Private Company
+EPA COMPUTER CENTER         800-445-2795    14400    N-8-1  Goverment
+EPSON                       800-234-1445     2400    N-8-1  Ext 8777/Dealers
+ERS/NASS                    800-821-6229     9600    N-8-1  Econ. & Agri. Info
+ETA REGION VIII             800-828-5912    14400    N-8-1  Economic Data
+EVENT HORIZONS              800-466-6336    28800    N-8-1  Pay / Adult GIFs
+EXAMINERS                   800-858-2107    14400    N-8-1  Aviation/Pilot Only
+F.R.E.D               !NEW! 800-708-3733    14400    N-8-1  Tel. Switches/Chat
+FAA SAFETY DATA EX.         800-426-3814     9600    N-8-1  Aviation
+FAST                        800-795-7925     2400    N-8-1  Unix
+FBM-I-NET             *NEW* 800-563-3006    14400    N-8-1  Canada/Agriculture
+FBM-I-NET             *NEW* 800-729-0884    14440    N-8-1  Canada/Agriculture
+FDA                         800-222-0185     9600    N-8-1  Food & Drug Admin.
+FED FLASH                   800-333-1953    14400    N-8-1  Federal Resevre
+FEDIX/MOLIS/HERO            800-232-4879     9600    N-8-1  Federal Info Ex.
+FEDIX/MOLIS/HERO            800-626-6547     9600    N-8-1  Federal Info Ex.
+FEDIX/MOLIS/HERO            800-783-3349     9600    N-8-1  Federal Info Ex.
+FILLUP FLYER                800-955-7900     9600    N-8-1  Signup/Fuel Prices
+FLORIDA RECYCLING           800-348-1239     2400    N-8-1  FL Only?/Recycling
+FORMULARY INFO. EX.   *NEW* 800-262-8664    14400    N-8-1  Medical/FSHP
+FSDO                        800-645-3736    14400    N-8-1  Aviation / Files
+INTERNET EXPRESS            800-748-3900    14400    N-8-1  Pay / Internet
+IOWA DATA CENTER            800-572-3942    19200    N-8-1  IA Only/Job Serv.
+IPMD                        800-874-2881    14400    N-8-1  Support
+IPTV LINK SERVICES          800-356-6231     9600    N-8-1  ID Public TV Link
+ITE                         800-982-4683    14400    N-8-1  Engineers
+JEPP/LINK                   800-767-7000     2400    E-7-1  Pay/Advisory Serv.
+JOHNSTON                    800-248-1038     9600    N-8-1  Enter Class
+LABOR DEPT.                 800-735-7396    14400    N-8-1  Wage Appeals
+LEADING EDGE                800-522-5032    14400    N-8-1  Support
+LEXIS-NEXIS           *NEW* 800-453-5392    14400    N-8-1  Support/Info Serv.
+LEXMARK                     800-453-9223    14400    N-8-1  Lexmark Dealers
+LIBERTY INFO NETWORK  *NEW* 800-474-1818    16800    N-8-1  Signup Board
+LINOTYPE-HELL               800-477-9639     9600    N-8-1  Employees Only
+MAG-NET                     800-831-0593     2400    N-8-1  Law Enfor. Only
+McGRAW-HILL                 800-248-7677     2400    N-8-1  NRI Students
+MCI                         800-234-6245     2400    N-8-1
+ME/U                        800-688-6463    14400    N-8-1  MEU Students Only
+MEDLARS                     800-772-4838     9600    E-7-1  Pay/Med. Database
+MEDWATCH              *NEW* 800-332-7737     9600    N-8-1  Med Product Report
+METNET                      800-346-8654     2400    N-8-1  MT Only?
+METNET                      800-685-0586     2400    N-8-1  MT Only?
+MIBBS                       800-543-2325     9600    N-8-1  Minorities
+MT. DEPT. COMMERCE          800-962-1729     2400    N-8-1  MO Only?
+MULTI-TECH                  800-392-2432    14400    N-8-1  Support
+NASA SBIR/STTR              800-547-1811    14400    N-8-1  Solicitations
+NBCI                        800-344-6224    14400    N-8-1  Bio. Control/Chat
+NBIAP                       800-624-2723    14400    N-8-1  Agricult. Biotech.
+NEBBS                       800-447-6377    14400    N-8-1  Supercomputer Sim.
+NEBRASKA ONLINE             800-392-7932     9600    N-8-1  NE Information
+NEW VISIONS           *NEW* 800-430-6398    14400    N-8-1  Pay/Members Only
+NIDR ONLINE           *NEW* 800-358-2221     2400    N-8-1  Dental Research
+NIH INFO CENTER       *NEW* 800-644-2271    14400    N-8-1  Health Info
+NJ LINK                     800-624-3372    14400    N-8-1  NJ Only
+NKCA                  *NEW* 800-280-2032    14400    N-8-1  Kidney Cancer
+NLPBB                       800-582-2355    14400    N-8-1  Navy
+NLPBB                       800-582-6940    14400    N-8-1  Navy
+NOVALINK                    800-825-8852    14400    N-8-1  Signup / Internet
+NOVALINK                    800-937-7644    14400    N-8-1  Signup / Internet
+NPSS-PSCN                   800-255-6272     2400    N-8-1  NASA Packet Net
+NRC                         800-880-6091     9600    N-8-1  Decom. Rulemaking
+OERI                        800-222-4922    14400    N-8-1  Education
+OKIDATA                     800-283-5474     9600    N-8-1  Okidata Dealers
+OPEN UNIV.                  800-486-6948     2400    N-8-1  Enter "..." / Vax
+ORIGINS                     800-765-6552    14400    N-8-1  OK/DC/Internet/Chat
+OSIRIS                      800-637-0958    14400    N-8-1  Unix
+
+OVER THE WALL               800-982-8762    14400    N-8-1  Navy Academy Alumi
+PEGASUS                     800-582-0365    14400    N-8-1  Military
+PENNY-WISE                  800-752-3012     2400    N-8-1  Online Shopping
+PHILIPS SEMICONDUCTORS      800-451-6644    14400    N-8-1  Support
+PIE-ON-LINE                 800-873-4743    14400    N-8-1  Policy Info Ex.
+PNMN                        800-233-3163     2400    N-8-1  Music Network
+PNMN                  !NEW! 800-952-6846    14400    N-8-1  Music Network
+PSEA                        800-374-7732     2400    N-8-1  PA Educators Only
+RDL ONLINE                  800-227-0391    14400    N-8-1  Hi-Fi Equipment
+RE*VIEW               *NEW* 800-847-9257    14400    N-8-1  Pay / Real Estate
+REVENUE CANADA        *NEW* 800-267-5979     2400    N-8-1  GST / Nafta Info
+RIBBS                       800-262-9541    14400    N-8-1  Postal Service
+RTK NET                     800-444-8697    28800    N-8-1  Right To Know
+SBA                         800-697-4636    19200    N-8-1  Small Business
+SERVE-LINE BBS              800-487-7605    14400    N-8-1  SE Only/Pay/Edu.
+SFREP SOFTWARE LABS   !NEW! 800-432-9083    14400    N-8-1  Closed / Garbage
+SOFTWARE VALLEY             800-763-8825    28800    N-8-1  Pay/Internet/QWK
+SOFTWARE VALLEY       *NEW* 800-784-7982    28800    N-8-1  WV Only / Pay
+STARBURST             !NEW! 800-248-6098    14400    N-8-1  Free Internet/Chat
+STARSHIP ][                 800-564-4686    14400    N-8-1  Pay/Internet/QWK
+TELENET                     800-546-1000     2400    E-7-1  Network
+TELENET                     800-546-2000     1200    E-7-1  Network
+TELENET                     800-546-2500    14400    E-7-1  Network
+TELENET                     800-546-3000     1200    E-7-1  Network
+TETRACOM                    800-774-2145    14400    N-8-1  Closed Board
+TEXAS COMMERCE              800-446-8676    14400    N-8-1  TX Only
+TEXAS COMPUTING MAG.  *NEW* 800-890-2038     9600    N-8-1  Support / General
+TEXAS CONNECTION            800-678-7415    14400    N-8-1  Human Ser. Workers
+TEXAS EDUCATION             800-258-3638    14400    N-8-1  Educational Net
+TOOLS FOR LIFE        !NEW! 800-578-8666     9600    N-8-1  GA Only/Disabilty
+TOXNET                      800-662-7969    14400    N-8-1  Toxicology Network
+TRIAD PROJECT         !NEW! 800-943-2323     ????    N-8-1  NY Only/Disablity
+TX. CANCER DATA CNTR.       800-438-3736    14400    N-8-1  TX Only / Cancer
+TX. CANCER DATA CNTR.       800-788-9293    14400    N-8-1  TX Only / Cancer
+TYMNET                      800-222-0555     2400    E-7-1  Network
+TYMNET                      800-766-7676     1200    E-7-1  Network
+UNISYS                      800-828-8796    14400    N-8-1  Unisys Info.
+USATSG                *NEW* 800-851-4815    14400    N-8-1  Military / Closed
+UTAHNET               *NEW* 800-882-4638    14440    N-8-1  UT Only/State Info
+VIRGINA ASSISTIVE           800-238-7955     9600    N-8-1  VA Only? / Tech.
+VOLUSIA COUNTY ELEC.  *NEW* 800-645-7908    19200    N-8-1  FL Only
+VTLS                        800-642-9703     2400    N-8-1  WV Only
+WAYNE STATE COLLEGE         800-545-6875    16800    N-8-1  College
+WEATHERBANK                 800-827-2727     2400    N-8-1  Pay / Weather Info
+WIDNET                      800-695-4002    14400    N-8-1  Pay/PW: "widnet"
+WINDOW ON STATE GOV.        800-227-8392     9600    N-8-1  TX Only
+WISENET                     800-322-9374     2400    N-8-1  WI Only/Education
+WORLD LINK                  800-827-2835    14400    N-8-1  Pay
+WTIE                        800-544-1936    28800    N-8-1  Water Treatment
+WVMEN                       800-642-1982     9600    N-8-1  WV Only/Education
+ZDI AUTHOR U/L CENTER       800-426-3425    14400    N-8-1  Upload Only
+------------------------------------------------------------------------------
+
+

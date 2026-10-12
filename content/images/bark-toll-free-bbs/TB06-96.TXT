@@ -1,0 +1,289 @@
+Hi All,
+It's a month late but I'am finally done :). I've made changes in the
+format so now their is more space for comments and added a column to 
+show the numbers that are accessible from Canada for which I give many
+thanks to Mark Cleghorn who's being a great help. First up is SDWarren
+which is a MajorBBS with chat, online games and paging. The general chat
+is limited but you can still use the one on one chat. Next is Corporate
+also a MajorBBS, with unlimited time, chat, paging and mail. This one
+isn't new, it just changed BBS software. Storyboard is again a MajorBBS.
+This one is a pay board with chat, Internet charging $10 a month for 
+unlimited time. Finally their are 2 BBS's you can connect to from EPA 
+Computer Center number by entering "clubbs" or "ordbbs". Have fun.
+
+TB06-96.TXT has 12 totally new numbers all marked as !NEW! and 24 marked
+as *NEW* that have been around for a few months. My old internet E-Mail
+isn't working anymore so please send any list requests, corrections and 
+anything else to Jerseyboy@awol.com now instead. My list can be found at
+FTP://wuarchive.wustl.edu/pub/msdos_uploads/bbslist and posted to the
+usenet group alt.bbs.lists every 2 weeks. You can freely distribute my 
+list as TB06-96 (zip or txt) but please include this message.
+
+Doug
+
+
+TB06-96.TXT                                              Jerseyboy@gcomm.com
+------------------------------------------------------------------------------
+Name                         Number   High   N81 Canada      Comments
+                             (800)    Speed
+------------------------------------------------------------------------------
+NALANET!              *NEW* 215-4638   14.4   *    *   Closed/Legal/"guest"
+DIMENET                     219-7538   14.4   *        CA/Chat/Disabled/Inet
+BANK ASSOCIATION            221-5451   14.4   *        # Prompt
+OREGAN TRUCKING ASSOC.      221-9957   14.4   *        Closed/Private Company
+FDA/CDRH                    222-0185   9600   *        FDA Server / WWW
+TYMNET                      222-0555   2400   *        Network
+RIALITY               !NEW! 222-1352   14.4   *    *   Tax Software
+OERI                        222-4922   14.4   *        Education / Gopher
+CITICORP                    223-3312   2400        *   Bank
+FAA CORPORATE               224-6287   14.4   *        Info Exchange
+CSCBBS                      224-9519   14.4   *    *   Wang Support
+WINDOW ON STATE GOV.        227-8392   9600   *        TX Only
+FTA                         231-2061   14.4   *        Transit Administration
+FEDIX/MOLIS/HERO            232-4879   9600   *        Federal Info Exchnage
+EPSON                       234-1445   14.4   *        Ext 8777 / Dealers
+DEC ELE. STORE              234-1998   9600   *    *   Online Shopping
+MCI                         234-6245   2400   *
+GULFLINE II                 235-4662   28.8   *        Environmental
+CIRCUIT WRITER              235-6671   14.4   *    *   Pay / Religious
+VIRGINA ASSISTIVE           238-7955   9600   *        VA/Assistive Technology
+ATUG                        242-0490   9600   *        KY/Assistive Technology
+ATSC ON-LINE                242-4246   14.4   *        Army Training / Paging
+FSTB                        243-2792   14.4   *        EPA / Solid Waste
+INTERACT!             *NEW* 243-7133   14.4   *        HI Only / Pay
+DATA TRANSFORMATION         245-3828   14.4   *        Weather / Pilots Only
+JOHNSTON                    248-1038   9600   *    *   Enter Class
+STARBURST                   248-6098   14.4   *        Chat / Free Internet
+McGRAW-HILL                 248-7677   14.4   *    *   NRI Students Only
+CDRH'S ELEC. DOCKET         252-1366   14.4   *        Health
+NPSS-PSCN                   255-6272   2400   *        NASA Packet Net
+TEXAS EDUCATION             258-3638   14.4   *        Educational Net
+FORMULARY INFO EXCHANGE     262-8664   14.4   *    *   Medical
+RIBBS                       262-9541   14.4   *        Postal Service Info
+TELOS                       263-0795   28.8   *    *   Pay / Network
+REVENUE CANADA              267-5979   14.4   *    *   Canada / GST / Nafta
+GENESIS ONLINE              272-2447   9600   *        Electronics
+EREC                  *NEW* 273-2955   14.4   *        Energy Info
+DECISION ANALYST            275-2259   14.4   *        Marketing
+NKCA                        280-2032   14.4   *    *   Kidney Cancer
+OKIDATA                     283-5474   14.4   *    *   Okidata Dealers
+INGRAM MICRO WORLDWIDE NET. 289-1605   14.4            Computerized Purchasing
+OLTN                        292-8116   14.4   *        Literacy
+NRC ONLINE                  303-9672   14.4   *        Nuclear Reg. Com. Info
+DNA                         305-8203   14.4   *        DNA Database / Paging
+ARAC                        322-2722   14.4   *        Aviation
+WISENET                     322-9374   2400   *        WI Only / Education
+EASYLINK                    325-1436   1200            Network
+EASYLINK                    325-4112   2400            Network
+STORYBOARD            !NEW! 328-2427   14.4   *        Pay / Chat / Internet
+COMPUSERVE                  331-7166   14.4        *   Ripoff!!!
+TROA                  *NEW* 332-4047   14.4   *        TROA Members Only
+MEDWATCH                    332-7737   9600   *        Med Product Report
+FED FLASH                   333-1953   14.4   *        Federal Resevre
+COMPUSTORE/AUTOVANTAGE      336-7663   9600   *        Online Shopping
+FEBBS                       337-3492   9600   *        Federal Highways
+INFOPATH                    339-3845   9600   *        ME Only
+AMEDD TRAINING        *NEW* 344-2395   14.4   *        Army Medical
+NBCI                        344-6224   14.4   *        Chat/Biological Control
+BUPERS ACCESS               346-0217   14.4   *        Military
+BUPERS ACCESS               346-0218   14.4   *        Military
+BUPERS ACCESS               346-0227   14.4   *        Military
+COMPUSERVE                  346-3247   2400        *   Ripoff!!!
+METNET                      346-8654   2400   *        MT Only?
+EASYLINK                    352-0192   14.4        *   Network
+OECI                        352-2949   14.4   *        Economics
+VIDIC                       353-5312   14.4   *    *   Employees Only/Implants
+SYBERBOOKS            !NEW! 353-8545   14.4   *        Electronic Book Store
+IPTV LINK SERVICES          356-6231   9600   *        ID Only/Public TV Link
+DATALYNX                    358-0486   2400   *
+NIDR ONLINE                 358-2221   14.4            Dental Research
+GEOLOGICAL                  358-2663   14.4   *        Earthquake Data
+ENC                         362-4448   14.4   *        Restricted Gopher / WWW
+DELPHI                      365-4636   9600   *    *   Signup / Internet
+IL. STATE BOARD OF ED       369-6520   9600   *        IL Only / Educators
+CO:NECT                     374-4245   9600   *        CO Only / Disablity
+PSEA                        374-7732   2400   *        PA Only / Educators Only
+AEROFLIGHT'S AVIATION       377-5022   14.4   *    *   Pay / Aviation
+TCON                        386-8266   33.6   *        Pay / Internet
+MULTI-TECH                  392-2432   14.4   *    *   Support
+SAMHSA                      424-2294   9600   *        Grant Info
+ZDI AUTHOR U/L CENTER       426-3425   14.4   *    *   Uploads Only
+FAA SAFETY DATA EX.         426-3814   14.4   *        Aviation
+MOBILE MEDIA          *NEW* 430-2156   14.4   *        Support
+PROCESS IMPROV.             430-4046   14.4   *    *   Closed / Line quality
+STEERS                      430-5569   14.4   *        Environmental
+NEW VISIONS                 430-6398   14.4   *    *   Pay / Internet
+HFMA                        436-2638   14.4   *        Members Only
+TX. CANCER DATA CNTR.       438-3736   14.4   *        TX Only / Cancer
+RTK NET                     444-8697   28.8   *    *   Right To Know
+EPA COMPUTER CENTER         445-2795   14.4   *        Gov Net/"clubbs, ordbbs"
+ATOS                        446-2777   14.4   *        FAA Employees Only
+ORIEN                       446-7436   14.4   *    *   OH Realtors Only
+NEBBS                       447-6377   14.4   *        Supercomputer Simulation
+PHILIPS                     451-6644   14.4   *    *   Electronics
+LEXIS-NEXIS                 453-5392   14.4   *    *   Support / Info Service
+LEXMARK                     453-9223   28.8   *    *   Lexmark Dealers
+DLA                         458-7904   14.4   *        DLA Employees Only
+CARAC                       461-6109   9600   *    *   Canadian Aviation
+LIBERTY INFO NETWORK        474-1818   16.8   *    *   Signup Board / Internet
+OLTN                        475-8116   2400   *        Literacy
+TRANSITION                  477-8227   14.4   *    *   Closed / DOD
+HEAD START                  477-8278   14.4   *        Education
+BELL ATLANTIC               479-4202   2400            N. WV Only
+SERVE-LINE BBS              487-7605   14.4   *        SE Only/Pay/Education
+CORPORATE                   489-9580   14.4   *        Chat / USPS
+MODEM NATION          *NEW* 498-4246   14.4   *        OH Only/Pay/Internet
+LEADING EDGE                522-5032   14.4   *    *   Support
+AT&T FTS2000                525-0216   14.4   *        Medlars? / Unix
+GRATEFUL MED                525-5756   14.4   *        Support
+SALEMDUG                    538-4408   14.4   *        FEMA / RIME Net
+DESK TOP IV                 538-4669   14.4   *        Military Only
+HEALTH & WELFARE MINISTRIES 542-5921   14.4   *    *   AIDS Support
+MIBBS                       543-2325   9600   *        Minorities
+WTIE                        544-1936   28.8   *        Water Treatment
+COMPUSERVE                  544-3095   14.4            Ripoff!!!
+IL. STATE BOARD OF ED       545-7884   9600   *        IL Only / Educators
+TELENET                     546-1000   2400            Network
+TELENET                     546-2000   2400            Network
+SPRINT BBS            *NEW* 546-2358   9600   *        Chat / Info / Paging
+TELENET                     546-2500   14.4            Network
+TELENET                     546-3000   1200            Network
+NASA SBIR/STTR              547-1811   14.4   *        Solicitations
+AT&T FTS2000                547-8559   14.4   *        Medlars? / Unix
+ARI SERVICES                553-3244   2400        *
+TELENET               *NEW* 555-3425   14.4            Network
+ND HIGHWAY PATROL     !NEW! 555-3427   14.4   *        Closed/Law Enforcement
+HOTCAT LIVE!          *NEW* 555-3638   14.4   *        Pay / Adult
+AUTONET               !NEW! 555-3823   14.4   *    *   Network
+TELENET               !NEW! 555-3862   14.4            Network
+U.S. HEALTH NETWORK   !NEW! 555-5410   9600   *        Pay / Health Care
+TIE                   *NEW* 555-5843   14.4   *        WWW / Telemedicine
+SDAT'S ONLINE SERVICE *NEW* 555-9450   14.4        *   Pay/MD Dept. of Taxation
+EIC                         557-8725   14.4   *        WC Only/Chat/Energy
+THE LOG                     558-8881   28.8   *        Army Logistics
+IOWA DATA CENTER            572-3942   19.2   *        IA Only/Job Service
+PEGASUS                     582-0365   14.4   *        Military Only
+NLPBB                       582-2355   14.4   *        Navy
+NLPBB                       582-6940   14.4   *        Navy
+FIG                   !NEW! 583-5107   14.4   *        Military
+BPHC ACCESS                 596-6405   14.4   *        Health Care
+FSO                   *NEW* 600-1815   14.4   *        DOD Employees Only
+DISA/CFSW                   600-2228   14.4   *        Closed / DOD
+FC                    *NEW* 600-2667   14.4   *        Enter "demo/demo"
+REFUND AMERICA TIMES        603-7971   14.4   *        Electronic Info System
+LENZ & RIECKER              622-5980   14.4   *        Closed / Graphic Arts
+DIALCOM                     624-2914   1200            Network
+AT&T MAIL                   624-5123   2400   *    *
+FEDIX/MOLIS/HERO            626-6547   9600   *        Federal Info Exchange
+YDS ONLINE            *NEW* 627-3878   2400   *        Pay Service
+MO DEPT. OF CONSERV.        627-4490   14.4   *        Environmental
+DATAGRAPHIC PARTNER         627-7090   14.4   *    *   Telefinder
+ACF                         627-8886   14.4   *        Human Services
+SPI                         635-7278   14.4   *    *   HP Repair Parts
+OSIRIS                      637-0958   14.4   *    *   Unix
+HOLONET                     638-4656   14.4   *    *   Pay / Holonet Info
+GENIE                       638-8369   9600        *   Signup Board
+WVMEN                       642-1982   9600   *        WV Only / Education
+MICHIGAN TECH         *NEW* 642-2896   2400   *        IL Only
+VTLS                        642-9703   2400   *        WV Only
+FSDO                        645-3736   14.4   *        Aviation / Files
+VOLUSIA COUNTY ELEC.        645-7908   19.2   *    *   FL Only
+NAEMT                       646-2368   14.4   *        EMS Only/Info Exchange
+BELL ATLANTIC               649-9092   2400            S. WV Only
+ENVIRO$EN$E           *NEW* 658-8815   14.4   *    *   Closed Line / Environ.
+CATS                        662-0662   2400   *    *   Unix
+TOXNET                      662-7969   14.4   *        Toxicology Network
+NORMAN EQUIPMENT            667-6227   14.4   *    *   Closed / Fluid Power
+TEXAS CONNECTION            678-7415   14.4   *        Human Service Workers
+TECH SPECS PLUS             679-5784   9600   *        Tech Spec Info
+ME/U                        688-6463   14.4   *    *   MEU Students Only
+CBBS                        689-4857   2400   *    *   Education / "CBBS"
+NCR GLOBAL SUPPORT          692-8872   28.8   *    *   Support
+PIRNIE                      694-6722   28.8   *        Private Compamy
+WIDNET                      695-4002   9600   *    *   Pay / PW: "widnet"
+BIX                         695-4882   14.4   *    *   Pay Service
+SBA                         697-4636   19.2   *        Small Business / E-mail
+CSO                         700-7837   14.4   *    *   Environ. Regulations
+F.R.E.D                     708-3733   14.4   *        Telephone Switches
+AOL                         716-0023   14.4   *        AOL Dialup Access
+CERFNET                     723-7363   14.4   *        Pay / Internet
+AUTONET                     729-1288   14.4   *    *   Network
+VA VENDOR                   735-5282   14.4   *        Vendor Business Data
+LABOR DEPT.                 735-7396   14.4   *        Wage Appeals
+CO. SUPERNET                748-0800   14.4   *        Pay / Internet
+INTERNET EXPRESS            748-3900   14.4   *        Pay / Internet
+PENNY-WISE                  752-3012   2400   *    *   Online Shopping
+EIC                         762-3319   14.4   *        NW Only/Chat/Energy
+BUPERS ACCESS               762-8567   14.4   *        Military
+SOFTWARE VALLEY             763-8825   28.8   *    *   Pay / Internet / QWK
+ORIGINS                     765-6552   28.8   *        OK/DC/Chat/Internet
+TYMNET                      766-7676   1200        *   Network
+TTRC                        767-0806   14.4   *        Employment training
+JEPP/LINK                   767-7000   14.4            Pay / Advisory Service
+GTE COMTEL DUAT             767-9989   14.4   *        Aviation
+MEDLARS                     772-4838   9600            Pay / Medical Database
+FED. REAL ESATE SALES       776-7872   9600   *        Goverment Sales
+IGC                         777-9454   14.4   *        Pay / Internet
+COLORADO MEETING PLACE      779-5907   14.4   *        CO Only / Disabilty
+FEDIX/MOLIS/HERO            783-3349   9600   *        Federal Info Exchange
+SOFTWARE VALLEY             784-7982   28.8   *        WV Only/Pay/Internet/QWK
+TX. CANCER DATA CNTR.       788-9293   14.4   *        TX Only / Cancer
+FAST                        795-7925   2400   *        Unix / MSDS / "bbs"
+EIC                         797-7584   14.4   *        WC Only/Chat/Energy
+SDWARREN              !NEW! 805-9489   14.4   *        Chat/Support/Games/Page
+EVAULT                      806-6599   14.4   *    *   Tape Backup
+ERS/NASS                    821-6229   9600   *        Economic & Agri. Info
+AT&T GIS CP&S               822-4304   14.4   *        Employees Only/Support
+CSBBS                 !NEW! 822-9358   14.4   *        Closed / USPS
+NOVALINK                    825-8852   14.4   *    *   Signup / Internet
+TCON                  !NEW! 826-6469   33.6   *    *   Canada / Pay / Internet
+NESCAUM               *NEW* 827-0180   14.4   *        Closed/Environ./E-mail
+WEATHERBANK                 827-2727   28.8   *    *   Pay / Weather Info
+AUTONET                     827-3001   2400   *    *   Network
+AOL TECH SUPPORT            827-5808   14.4   *    *   Software Updates
+AUTONET                     827-8001   14.4   *    *   Network
+ETA REGION VIII             828-5912   14.4   *        Economic Data
+UNISYS                      828-8796   14.4   *    *   Unisys Info
+E-SOURCE              *NEW* 831-8826   14.4   *        Environmental
+CAVIX                       834-8428   14.4   *        CA Only/Educators Only
+CESAR                       842-3727   14.4   *        ME Only?/Substance Abuse
+AESOP                       843-3451   14.4   *    *   Motorola Chip Info
+GATEWAY 2000 SUPPORTNET     846-1786   14.4   *    *   Mailer Only
+GATEWAY 2000 ONLINE         846-7562   16.8   *    *   Support
+GENIE                 *NEW* 847-5260   9600   *        Dialup / Access Number
+RE*VIEW                     847-9257   14.4   *    *   Pay / Real Estate
+COMPUSERVE                  848-4480   2400        *   Ripoff!!!
+USATSG                      851-4815   14.4   *        Closed / Military
+NAC ONLINE            *NEW* 851-7245   14.4   *        AIDS Info
+AT&T DIRECTORY INFO.  *NEW* 855-1155   2400   *        Directory Info
+FERC                        856-3920   14.4   *        Energy Regulations
+EXAMINERS                   858-2107   14.4   *        Aviation / Pilots Only
+VA ONLINE                   871-8387   28.8   *        Veterans / Dialout
+PIE-ON-LINE                 873-4743   14.4   *    *   Policy Info Exchange
+GEORGIA-PACIFIC             873-4747   9600   *        Vax / "visitor"
+IPMD                        874-2881   28.8   *        Support
+HMIX                        874-2884   14.4   *        Environmental
+HAYES-ONLINE                874-2937   28.8   *        Support
+INFONET                     876-4638   2400            # Prompt
+PEO(USW)                    879-4556   14.4   *    *   Navy / Internet
+NRC                         880-6091   9600   *        Decommission Rulemaking
+SHIP SELF DEFENSE           881-7737   14.4   *        Navy Only / Warfare
+CBS/NEWSNET                 882-4227   2400   *    *   Closed / CBS
+UTAHNET                     882-4638   14.4   *        UT Only / State Info
+WAVE                        884-9283   14.4   *        WAVE Clients
+ZENITH                *NEW* 888-3014   14.4   *    *   Closed Line / Support
+INTEL                       897-2536   14.4   *    *   Intel Info
+DWIE                        932-7459   28.8   *    *   Drinking Water/Environ.
+NOVALINK                    937-7644   14.4   *    *   Signup / Internet
+TRIAD PROJECT               943-2323   2400   *        NY Only / Disablity
+PNMN                        952-6846   14.4   *    *   Music Network
+NRC PUBLIC MEETING          952-9676   14.4   *        NRC Meeting Enquirys
+EDS                         955-0001   14.4   *    *   EDS CAD Users only
+FILLUP FLYER                955-7900   9600   *    *   Signup / Air Fuel Prices
+MT. DEPT. COMMERCE          962-1729   2400   *        MO Only
+ERIN                  !NEW! 972-2828   2400   *        IO Only
+EASYLINK                    986-9999   2400            Network
+CONCENTRIC NETWORK          991-4227   14.4   *        Pay/Internet/BBS Gateway
+NJDMAVA               *NEW* 992-6282   2400   *        NJ Only
+------------------------------------------------------------------------------
+

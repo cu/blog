@@ -1,0 +1,698 @@
+                        1-800- BBS'S ACROSS THE U.S.
+                        BY BRYAN BALAM
+                        
+BUDDY
+Excellent board on the Seeing Eye and guide dogs.  Good for both Seeing Eye dog
+owners, as well as interested individuals.  Very good message base, excellent 
+files as well.
+                      OTHER INFO:
+                      NUMBER: 1-800-449-2252
+                      RANK NOVEMBER 94: 9
+                      CURRENT RANK: 1
+                      BEST SERVICE: FILES, MESSAGES
+                      SECURITY LEVELS: NO
+                      FILE RATING: 6.7
+                      BBS SOFTWARE: Wildcat!
+                      LINES: 1
+                      PARAMETERS: N-8-1
+                      SYSOP: DAVE LOUX
+                      QWK: YES
+                      
+                      
+SERVE-LINE
+Excellent board on education, now has Internet!!!!!!!!   Mainly for teachers, 
+anyone in the southeast can call.  For the full services, including E-mail, 
+forums, files, Internet E-mail, and Internet gopher, the charge is $25 a year.
+                         OTHER INFO:
+                         NUMBER: 1-800-487-7605
+                         RANK NOVEMBER 94: 3
+                         CURRENT RANK: 2
+                         BEST SERVICE: FILES
+                         SECURITY LEVELS: YES, PAYING AND NON-PAYING
+                         FILE RATING: 8.4
+                         BBS SOFTWARE: TBBS the Bread Box
+                         LINES: UNKNOWN
+                         PARAMETERS: N-8-1
+                         SYSOP's: James Globe, Tamara Wilson, Chris Gwynn, Mark
+Wayne-Hart
+                         QWK: Yes
+                         
+ACF
+Good board, run by the Association of Children and Families.  No E-mail for 
+users on weekends who are not involved with ACF.  Could eventually shut
+off all mail access, or other features as well.
+                        OTHER INFO:
+                        NUMBER: 1-800-627-8886
+                        RANK NOVEMBER 94: 1
+                        CURRENT RANK: 3
+                        BEST SERVICE: MESSAGES,FILES
+                        SECURITY LEVELS: YES 2
+                        FILE RATING: 6.7
+                        BBS SOFTWARE: MajorBBS by Galacticomm
+                        LINES: 7
+                        PARAMETERS: N-8-1
+                        SYSOP: Kevin Fine
+                        QWK: Yes, to ACF employees only.
+                                          
+NBCI
+The National Biological Control Institute's BBS has some very good
+features, including chat, E-mail, forums, and files.  All users
+are validated in a few days(after using the DEMO account and
+selecting * from the main menu, afterwards giving their choice of USER ID
+, city, phone number,etc).
+                        OTHER INFO:
+                        NUMBER: 1-800-344-6224
+                        RANK NOVEMBER 94: 2
+                        CURRENT RANK: 4
+                        BEST SERVICE: TELECONFERENCE
+                        SECURITY LEVELS: Yes, 2
+                        FILE RATING: 6.1
+                        BBS SOFTWARE: MajorBBS by Galacticomm
+                        LINES: 2
+                        PARAMETERS: N-8-1
+                        SYSOP: UNKNOWN
+                        QWK: Yes
+
+
+DIAL-JAN
+Good board, on job accomodations topics.  Disabilities discussion
+is allowed also.
+                        OTHER INFO:
+                        NUMBER: 1-800-342-5526
+                        RANK NOVEMBER 94: 7
+                        CURRENT RANK: 5
+                        BEST SERVICE: CONFERENCES
+                        SECURITY LEVELS: NO
+                        FILE RATING: 5.6
+                        BBS SOFTWARE: PCBoard
+                        LINES: 1
+                        PARAMETERS: N-8-1
+                        SYSOP: TOM FREEMAN
+                        QWK: YES
+                        
+AT&T GLOBAL SUPPORT
+Support board for AT&T computers.  Also E-mail, Registry of Users, files,
+and forums.
+                        OTHER INFO:
+                        NUMBER: 1-800-692-8872
+                        RANK NOVEMBER 94: 5
+                        CURRENT RANK: 6
+                        BEST SERVICE: E-MAIL
+                        SECURITY LEVELS: NO
+                        FILE RATING; 5.3
+                        BBS SOFTWARE: MajorBBS by Galacticomm
+                        LINES: 2
+                        PARAMETERS: N-8-1
+                        SYSOP: Michael Allgood
+                        QWK: Yes
+                        
+ETA REGION VIII
+Great board!  Good discussions in forums, good files(though the User Upload
+directory is sorely missed), as well as other features make this board
+deservedly number 7!
+                        OTHER INFO:
+                        NUMBER: 1-800-828-5912
+                        RANK NOVEMBER 94: 14
+                        CURRENT RANK: 7
+                        BEST SERVICE: MESSAGES
+                        SECURITY LEVELS: NO
+                        FILE RATING: 5.7
+                        BBS SOFTWARE: PCBoard
+                        LINES: Unknown
+                        PARAMETERS: N-8-1
+                        SYSOP's: Robert Wood, Brandon Bachman
+                        QWK: Yes
+                        
+BARK 
+Good board, excellent conferences, E-mail, polls, files, and other
+services of note.  It appears to be shutting off access to 
+non-high school students which is a major disapointment.
+                        OTHER INFO:
+                        NUMBER: 1-800-333-0052
+                        RANK NOVEMBER 94: 4
+                        CURRENT RANK: 8
+                        BEST SERVICE: CONFERENCES
+                        SECURITY LEVELS: Unknown
+                        FILE RATING: 3.7
+                        BBS SOFTWARE: PCBoard
+                        LINES: 4(I think<g>)
+                        PARAMETERS: N-8-1
+                        SYSOP: UNKNOWN
+                        QWK: Yes
+       
+
+ITE
+The Institute of Engineers BBS is a very good board, has pretty good files,
+a message base(though it needs some more activity), as well as other
+services.  Worth calling!
+                       OTHER INFO:
+                       NUMBER: 1-800-982-4683
+                       RANK NOVEMBER 94: 10
+                       CURRENT RANK: 9
+                       BEST SERVICE: MAIL
+                       SECURITY LEVELS: NO
+                       FILE RATING: 5.9
+                       BBS SOFTWARE: Wildcat!
+                       LINES: 2
+                       PARAMETERS: N-8-1
+                       SYSOP: Juan Morales
+                       QWK: Yes
+                       
+WTIE
+The Waste Water Information Exchange is a good source of information
+on waste water.  Good files, active message area.  No private
+messages allowed except to Sysop.
+                     OTHER INFO:
+                     NUMBER: 1-800-544-1936
+                     RANK NOVEMBER 94: 11
+                     CURRENT RANK: 10
+                     BEST SERVICE: CONFERENCES
+                     SECURITY LEVELS: Yes, 2
+                     FILE RATING: 5.9
+                     BBS SOFTWARE: PCBoard
+                     LINES: Unknown
+                     PARAMETER: N-8-1
+                     SYSOP: Brad Maust
+                     QWK: Yes 
+                     
+DWIE
+The Drinking Water Information Exchange is similar to WTIE except
+in is about drinking water.
+                     OTHER INFO:
+                     NUMBER: 1-800-932-7459
+                     RANK NOVEMBER 94: 12
+                     CURRENT RANK: 11
+                     BEST SERVICE: CONFERENCES
+                     SECURITY LEVELS: Yes 2
+                     FILE RATING: 5.9
+                     BBS SOFTWARE: PCBoard
+                     LINES: Unknown
+                     PARAMETERS: N-8-1
+                     SYSOP: Brad Maust
+                     QWK: Yes
+                     
+NIH
+Great board!  Will be listed higher next month!  Excellent information here.
+The files are probably the best information-wise of any 800 board around!
+No message area unfortunetly, only comments to Sysop.
+                     OTHER INFO:
+                     NUMBER: 1-800-644-2271
+                     RANK NOVEMBER 94: 19
+                     CURRENT RANK: 12
+                     BEST SERVICE: FILES
+                     SECURITY LEVELS: NO
+                     FILE RATING: 8.5
+                     BBS SOFTWARE: Wildcat!
+                     LINES: 2
+                     PARAMETERS: N-8-1
+                     SYSOP: Dennis Rodriguez
+                     QWK: No
+                     
+FTA
+Excellent board!  Has files, message areas, and other services!  Has a
+User Upload directory in the file area as well.
+                     OTHER INFO:
+                     NUMBER: 1-800-231-2061
+                     RANK NOVEMBER 94: 22
+                     CURRENT RANK: 13
+                     BEST SERVICE: MESSAGES, FILES
+                     SECURITY LEVELS: NO
+                     FILE RATING: 6.3
+                     BBS SOFTWARE: TBBS the Bread Box
+                     LINES: 2
+                     PARAMETERS: N-8-1
+                     SYSOP: ERIC AFTANDILIAN
+                     QWK: No
+                     
+GULFLINE
+Pretty good board on the enviroment.  Has some excellent files, however
+level 5 users only have read/message access.  Chat to level 7 users,
+message and file capabilities to level 6.
+                    OTHER INFO:
+                    NUMBER: 1-800-235-4662
+                    RANK NOVEMBER 94: 22
+                    CURRENT RANK: 14
+                    BEST SERVICE: FILES
+                    SECURITY LEVELS: Yes 3
+                    FILE RATING: 8.9
+                    BBS SOFTWARE: RBBS
+                    LINES: Unknown
+                    PARAMETERS: N-8-1
+                    SYSOP: Kay McGovern
+                    QWK: No
+                    
+FSDO
+Very good board!  The addition of 2 more 800 nodes really help.  Active
+message areas, good files, Internet E-mail, and Fidonet E-mail
+to users in Florida.
+                    OTHER INFO:
+                    NUMBER: 1-800-645-3736
+                    RANK NOVEMBER 94: 23
+                    CURRENT RANK: 15
+                    BEST SERVICE: FILES
+                    SECURITY LEVELS: NO
+                    FILE RATING: 6.2
+                    BBS SOFTWARE: QuickBBS
+                    LINES: 3
+                    PARAMETERS: N-8-1
+                    SYSOP: Bill Holnstein
+                    QWK: Yes.
+                    
+ZDI Author's Upload Center
+Good board, for shareware author's to upload their programs which
+may eventually be showcased on AOL, Prodigy, or CompuServe.
+                   OTHER INFO:
+                   NUMBER: 1-800-426-3425
+                   RANK NOVEMBER 94: 16
+                   CURRENT RANK: 16
+                   BEST SERVICE: MESSAGES
+                   SECURITY LEVELS: NO
+                   FILE RATING: NO FILES
+                   BBS SOFTWARE: PCBoard
+                   LINES: Unknown
+                   PARAMETERS: N-8-1
+                   SYSOP: Chuck Freiser
+                   QWK: Yes
+                   
+
+CTDNET  #NEW#
+Good pay service.  Fairly affordable rates.  Has chat, Internet E-mail,
+Internet forums, E-mail, Dial-Out, as well as other services.  
+                  OTHER INFO:
+                  NUMBER: 1-800-318-5249
+                  RANK NOVEMBER 94: NONE
+                  CURRENT RANK: 17                
+                  BEST SERVICE: DIAL-OUT, INTERNET
+                  SECURITY LEVELS: Yes 2, paying and non-paying
+                  FILE RATING: 5.9
+                  BBS SOFTWARE: MajorBBS by Galacticomm
+                  LINES: Unknown
+                  PARAMETERS: N-8-1
+                  SYSOP: Unknown
+                  QWK: Yes
+                  
+NASA/SBIR
+Okay board on NASA SBIR project.  Inactive message base, mediocre files.
+                 OTHER INFO:
+                 NUMBER: 1-800-547-1881
+                 RANK NOVEMBER 94: 18
+                 CURRENT RANK: 18
+                 BEST SERVICE: MESSAGES
+                 SECURIT LEVELS: NO
+                 FILE RATING: 4.8
+                 BBS SOFTWARE: PCBoard
+                 LINES: Unknown
+                 PARAMETERS: N-8-1
+                 SYSOP: Unknown
+                 QWK: Unknown
+                 
+CSO   #NEW#
+Okay board, needs work.  A forum is badly needed, on-topic files available.
+                 OTHER INFO:
+                 NUMBER: 1-800-700-7837
+                 RANK NOVEMBER 94: NONE     
+                 CURRENT RANK: 19
+                 BEST SERVICE: FILES
+                 SECURITY LEVELS: NO
+                 FILE RATING: 5.3
+                 BBS SOFTWARE: Wildcat!
+                 LINES: Unknown
+                 PARAMETERS: N-8-1
+                 SYSOP: Unknown
+                 QWK: No
+                 
+RIBBS
+Good board on the postal service.  Will become pay January 1995.
+                 OTHER INFO:
+                 NUMBER: 1-800-262-9541
+                 RANK NOVEMBER 94: 6
+                 CURRENT RANK: 20
+                 BEST SERVICE: MESSAGES
+                 SECURITY LEVELS: NO
+                 FILE RATING: 5.5
+                 BBS SOFTWARE: WILDCAT!
+                 LINES: 25
+                 PARAMETERS: N-8-1
+                 SYSOP: Matt Linxwiller
+                 QWK: Yes
+                 
+SBA
+The Small Business Administration is a okay board.  Has some information
+if you look hard enough, but most of its services are unavailable
+from the 800 number.  Messages only to/from Sysop, and Chief Counsel.
+                  OTHER INFO:
+                  NUMBER: 1-800-697-4636
+                  RANK NOVEMBER 94: 24
+                  CURRENT RANK: 21
+                  BEST SERVICE: FILES, INFO
+                  SECURITY LEVELS: NO
+                  FILE RATING: 5.8
+                  BBS SOFTWARE: TBBS The Bread Box
+                  LINES: 56
+                  PARAMETERS: N-8-1
+                  SYSOP: Unknown
+                  QWK: No
+                  
+ORIE
+Good board on education, SERVE-Line is much better.  Much abuse
+due to paging function, and is often busy.  Teachers get full
+access.
+                 OTHER INFO:
+                 NUMBER: 1-800-222-4922
+                 RANK NOVEMBER 94: 26
+                 CURRENT RANK: 22
+                 BEST SERVICE: FILES
+                 SECURITY LEVELS: YES 2
+                 FILE RATING: 7.7
+                 BBS SOFTWARE: MajorBBS by Galacticomm
+                 LINES: 4
+                 PARAMETERS: N-8-1
+                 SYSOP: Unknown
+                 QWK: Yes
+                 
+GEOLOGICAL SURVEY
+Good board!  Lots of earth quake info available, though files and messages would
+make it much better.
+                 OTHER INFO:
+                 NUMBER: 1-800-358-2663
+                 RANK NOVEMBER 94: 25
+                 CURRENT RANK: 23
+                 BEST SERVICE: EARTHQUAKE DATA
+                 SECURITY LEVELS: NO
+                 FILE RATING: NO FILES
+                 BBS SOFTWARE: UNKNOWN
+                 LINES: UNKNOWN
+                 PARAMETERS: N-8-1
+                 SYSOP: UNKNOWN
+                 QWK: NO MESSAGES
+                 
+
+FED FLASH
+Good board run by the Federal Reserve.  Had a good message area, but
+unfortunetly it was shut down to lower 800 number costs.  Still
+has good economics information.
+                OTHER INFO:
+                NUMBER: 1-800-333-1953
+                RANK NOVEMBER 94: 13
+                CURRENT RANK: 24
+                BEST SERVICE: FILES
+                SECURITY LEVELS: NO
+                FILE RATING: 6.3
+                BBS SOFTWARE: RBBS
+                LINES: 1
+                PARAMETERS: N-8-1
+                SYSOP: Michelle Thomas
+                QWK: No 
+                
+                
+                                       
+                    
+NEBBS
+Interesting super computer simulation.  Chat, Telnet(FROM NEBBS), and E-mail
+have been taken off however, with only relating public mail allowed, as well
+as files.  
+               OTHER INFO:
+               NUMBER: 1-800-447-6377
+               RANK NOVEMBER 94: 29
+               CURRENT RANK: 25
+               BEST SERVICE: MESSAGES
+               SECURITY LEVELS: NO
+               FILE RATING: 4.7
+               BBS SOFTWARE: UNKNOWN
+               LINES: UNKNOWN
+               PARAMETERS: N-8-1
+               SYSOP: Brian Lindow
+               QWK: No
+               Special Comment: Telnet site available(same service as 800)
+               
+EPSON
+Good board on support on Epson printers!  Definetly not deserving
+of rank 45 in last month's list, should have been much higher!  Of course
+that idiot did the list last month.......and put it last. :)  To access the 
+board you must enter the following in the number column: 
+1-800-234-1445,1,8777 or whatever works on your comm program.
+              OTHER INFO:
+              NUMBER: 1-800-234-1445(extension 8777)
+              RANK NOVEMBER 94: 45
+              CURRENT RANK: 26
+              BEST SERVICE: FILES
+              SECURITY LEVELS: UNKNOWN
+              FILE RATING: 6.7
+              BBS SOFTWARE: MajorBBS by Galacticomm
+              LINES: 8
+              PARAMETERS: N-8-1
+              SYSOP: UNKNOWN
+              QWK: No messages.
+              
+              
+
+FORMULARY INFORMATION EXCHANGE  #NEW#
+Okay board.  Looks like it could use some "decoding" done, i.e. there
+may be some way to access the board though not shown clearly.  I am
+still working on it :)              
+              OTHER INFO:
+              NUMBER: 1-800-262-8664
+              RANK NOVEMBER 94: NONE
+              CURRENT RANK: 27       
+              BEST SERVICE: NONE IN PARTICULAR
+              SECURITY LEVELS: UNKNOWN
+              FILE RATING: UNKNOWN
+              BBS SOFTWARE: UNKNOWN
+              LINES: UNKNOWN
+              PARAMETERS: N-8-1
+              SYSOP: UNKNOWN
+              QWK: UNKNOWN
+              
+NUCULEAR COMM
+Okay board on nuculear decommissioning.  Could be better.  Inactive message
+area(not mainly meant for public mail).  On topic files.
+              OTHER INFO:
+              NUMBER: 1-800-880-6091
+              RANK NOVEMBER 94:28
+              CURRENT RANK: 28
+              BEST SERVICE: MESSAGES,FILES
+              SECURITY LEVELS: NO
+              FILE RATING: 5.3
+              BBS SOFTWARE: WILDCAT!
+              LINES: 1
+              PARAMETERS: N-8-1
+              SYSOP: CHRIS DALY
+              QWK: No
+              
+CARAC      #NEW#
+A board on Canadian aviation.  Much abused, so it has become somewhat
+difficult to get a higher access level(I sure couldn't <g>).  
+             OTHER INFO:
+             NUMBER: 1-800-461-6109
+             RANK NOVEMBER 94: NONE
+             CURRENT RANK: 29            
+             BEST SERVICE: FILES
+             SECURITY LEVELS: YES 2
+             FILE RATING: 3.2
+             BBS SOFTWARE: PCBOARD
+             LINES: UNKNOWN
+             PARAMETERS: N-8-1
+             SYSOP: Robert Sinceles
+             QWK: Yes
+             
+NLPBB
+Good board.  Meant mainly for Navy personell and retired Navy servicemen,
+but open to all.  Fairly good files, E-mail, and other services are 
+available.
+             OTHER INFO:
+             NUMBER: 1-800-582-2355
+             RANK NOVEMBER 94: 30
+             CURRENT RANK: 30
+             BEST SERVICE: FILES
+             SECURITY LEVELS: NO
+             FILE RATING: 4.9
+             BBS SOFTWARE: TBBS
+             LINES: UNKNOWN
+             PARAMETERS: N-8-1
+             SYSOP: UNKNOWN
+             QWK: NO
+             
+CBS/NEWSNET    #NEW#
+Closed board for East CBS/NEWS employees.  New users are not allowed(anymore
+I have an account with a whole 15 minutes a day and no services except
+account information!!!!!!).
+             OTHER INFO:
+             NUMBER: 1-800-882-4227
+             RANK NOVEMBER 94: NONE
+             CURRENT RANK: 31
+             BEST SERVICE: NOTHING WORTH MENTIONING
+             SECURITY LEVELS: YES 2(apparently)
+             FILE RATING: UNKNOWN
+             BBS SOFTWARE: TBBS
+             LINES: UNKNOWN
+             PARAMETERS: N-8-1
+             SYSOP: UNKNOWN
+             QWK: NO
+             
+FAA SAFETY EXCHANGE
+Okay board, needs updating badly.  
+            OTHER INFO:
+            NUMBER: 1-800-426-3814
+            RANK NOVEMBER 94: 27
+            CURRENT RANK: 31
+            BEST SERVICE: OWNER/BUILDER QUESTIONS
+            SECURITY LEVELS: NO
+            FILE RATING: NO FILES
+            BBS SOFTWARE: UNKNOWN
+            LINES:  UNKNOWN
+            PARAMETERS: N-8-1
+            SYSOP: UNKNOWN
+            QWK: NO MESSAGES
+            
+FDA
+Good server.  Lots of information available!
+           OTHER INFO:
+           NUMBER: 1-800-222-0185
+           RANK NOVEMBER 94: 35
+           CURRENT RANK: 32
+           BEST SERVICE: INFO
+           SECURITY LEVELS: UNKNOWN
+           FILE RATING: UNKNOWN
+           BBS SOFTWARE: UNKNOWN
+           LINES: UNKNOWN
+           PARAMETERS: N-8-1
+           SYSOP: UNKNOWN
+           QWK: UNKNOWN
+        
+
+GTE
+Fairly good board.  Has some read-only Internet forums, messages to Sysop, and 
+files.  For GTE product supports.  Note: do not use /P function here!  If you are caught you will be
+blocked from 800 AT&T calls.
+           OTHER INFO:
+           NUMBER: 1-800-483-4927
+           RANK NOVEMBER 94:38
+           CURRENT RANK: 33
+           BEST SERVICE: INTERNET FORUMS
+           SECURITY LEVELS: NO
+           FILE RATING: 4.5
+           BBS SOFTWARE: MAJORBBS by Galacticomm
+           LINES: Unknown
+           PARAMETERS: N-8-1
+           SYSOP: UNKNOWN
+           QWK: NO
+           
+CAM
+Okay board on AIDS.  Pretty good file area.  
+          OTHER INFO:
+          NUMBER: 1-800-542-5921
+          RANK NOVEMBER 94: 37
+          CURRENT RANK: 34
+          BEST SERVICE: FILES
+          SECURITY LEVELS: Yes 3
+          FILE RATING: 6.8
+          BBS SOFTWARE: MajorBBS by Galacticomm
+          LINES: 1
+          PARAMETERS: N-8-1
+          SYSOP: Nancy Carter
+          QWK: Yes
+NEW VISIONS
+Pretty good pay board.  Has full Internet, E-mail, chat, online games,
+and more!
+         OTHER INFO:
+         NUMBER: 1-800-430-6398
+         RANK NOVEMBER 94: 36
+         CURRENT RANK: 35
+         BEST SERVICE: INTERNET FACILITIES
+         SECURITY LEVELS: Yes 2
+         FILE RATING: 3.5
+         BBS SOFTWARE: MajorBBS by Galacticomm
+         LINES: Unknown(alot!)
+         PARAMETERS: N-8-1
+         SYSOP: UNKNOWN
+         QWK: Yes 
+         
+GRATEFUL MED   #NEW#
+Good support board for Grateful Med products.  E-mail only to Sysop,
+forum mail available.
+         OTHER INFO:
+         NUMBER: 1-800-525-5756
+         RANK NOVEMBER 94: NONE
+         CURRENT RANK: 36
+         BEST SERVICE: FILES,FORUMS
+         SECURITY LEVELS: NO
+         FILE RATING: 5.2
+         BBS SOFTWARE: MajorBBS by Galacticomm
+         LINES: 6
+         PARAMETERS: N-8-1
+         SYSOP: Unknown
+         QWK: No
+         
+GATEWAY 2000
+Fairly good board, has paging and files. Support board for Gateway
+products.
+        OTHER INFO:
+        NUMBER: 1-800-846-7562
+        RANK NOVEMBER 94: 39
+        CURRENT RANK: 37
+        BEST SERVICE: PAGING, FILES
+        SECURITY LEVELS: NO
+        FILE RATING: 3.3
+        BBS SOFTWARE: MajorBBS by Galacticomm
+        LINES: Unknown(alot!)
+        PARAMETERS: N-8-1
+        SYSOP: Unknown
+        QWK: No
+        
+MIBBS
+Okay board of minorities.  Could be good, could be useless.
+       OTHER INFO:
+       NUMBER: 1-800-437-8932
+       RANK NOVEMBER 94: 41
+       CURRENT RANK: 38
+       BEST SERVICE: NONE
+       SECURITY LEVELS: Yes 2
+       FILE RATING: 2.6
+       BBS SOFTWARE: Unknown
+       LINES: Unknown
+       PARAMETERS: N-801
+       SYSOP: Unknown
+       QWK: Unknown
+     
+UNISYS
+Okay board.  Could be a lot better.
+       OTHER INFO:
+       NUMBER: 1-800-828-8796
+       RANK NOVEMBER 94: 42
+       CURRENT RANK: 39
+       BEST SERVICE: NONE
+       SECURITY LEVELS: UNKNOWN
+       FILE RATING: 3.7
+       BBS SOFTWARE: MajorBBS by Galacticomm
+       LINES: Unknown
+       QWK: No
+       
+NEBRASKA ONLINE
+Okay board with economic info and labor information on the state of 
+Nebraska.  Accessable from all of the U.S..  Noticing that I ranked
+it last, are you happy Brant? :)
+      OTHER INFO:
+      NUMBER: 1-800-392-7932
+      RANK NOVEMBER 94: 32
+      CURRENT RANK: 40
+      BEST SERVICE: FILES
+      SECURITY LEVELS: Yes 2
+      FILE RATING: 3.2
+      BBS SOFTWARE: Unknown(some yucky indigenous stuff)
+      LINES: 1
+      QWK: Unknown
+      
+Hi all!
+That is it for my 3d edition of 1-800- BBS's ACROSS THE U.S.  It
+has been a rather poor month for the list, in which several boards
+went down: Consumer Affairs, Logicode, Ryan's Instruments, and
+others.  Some I choose to take off because they weren't good enough.  
+Hopefully, the list next month will be better.  This list
+is public domain, it may be freely distributed, of course if you mess
+around with it in a text editor and for instance, say that you wrote
+the list, that is a VERY different story.:)  Please do distribute it.
+See ya!
+                   Bryan Balam
+                   
+                                                                                                                                                                                     
+
