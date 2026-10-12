@@ -21,19 +21,16 @@ body {
     background-color: white;
 }
 
-article figure {
-    margin-bottom: 1em;
-}
-
-article figure img {
+article img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
     height: auto;
+    margin-bottom: 1em;
 }
 
-article figure > figcaption {
+article figcaption {
     font-style: italic;
     margin-bottom: 1em;
     text-align: center;
