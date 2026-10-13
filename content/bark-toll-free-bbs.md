@@ -197,10 +197,8 @@ Other fun BBS-related links that I ran across while researching this:
 * <https://www.ipingthereforeiam.com/bbs/>
 * <https://www.bbsing.com>
 * <https://mirrors.archeobits.com>
-* <https://nfbnet.org/download/>
- * This site is kind of broken, but if you mess with the domain while browsing around, there is quite a lot of MS-DOS and BBS-related software that you would have found on BBSes back in the day.
-* <https://wmcbrine.com/MultiMail/>
-  * A "modern" QWK (and other offline mail) reader, which looks to have been significantly inspired by Blue Wave. No Linux packages provided, but it's packaged for Debian Trixie for some reason!
+* <https://nfbnet.org/download/> - This site is kind of broken, but if you mess with the domain while browsing around, there is quite a lot of MS-DOS and BBS-related software that you would have found on BBSes back in the day.
+* <https://wmcbrine.com/MultiMail/> - A "modern" QWK (and other offline mail) reader, which looks to have been significantly inspired by Blue Wave. No Linux packages provided, but it's packaged for Debian Trixie for some reason!
 
 ```
 +++ATH0
