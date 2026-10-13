@@ -1,4 +1,5 @@
 Title: BARK: The Toll-Free BBS for 90's Teens
+Date: 2026-10-12
 Tags: Retrocomputing
 
 ![Woof! Woof!]({static}/images/bark-toll-free-bbs/dags-borking.png "Woof! Woof!")

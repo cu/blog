@@ -1,4 +1,5 @@
 Title: A Pretty Okay Solar Ham Station, Part 2: Panels
+Date: 2025-08-11
 Tags: Radio, Solar
 
 <figure>
